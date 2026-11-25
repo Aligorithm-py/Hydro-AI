@@ -147,7 +147,7 @@ class _HydroDashboardScreenState extends State<HydroDashboardScreen> {
     // Her 15 dakikada bir otomatik canlı veri senkronizasyonu
     _autoSyncTimer = Timer.periodic(
       const Duration(minutes: 15),
-      (_) => _syncLiveHydroData(),
+      (_) => _refreshFullPipeline(),
     );
   }
 
@@ -155,6 +155,12 @@ class _HydroDashboardScreenState extends State<HydroDashboardScreen> {
   void dispose() {
     _autoSyncTimer?.cancel();
     super.dispose();
+  }
+
+  /// Supabase uydu tabanını + Open-Meteo canlı verisini sırayla yeniler.
+  Future<void> _refreshFullPipeline() async {
+    await _loadBaseSatelliteReport();
+    await _syncLiveHydroData();
   }
 
   Future<void> _initializeLivePipeline() async {
@@ -168,11 +174,39 @@ class _HydroDashboardScreenState extends State<HydroDashboardScreen> {
 
   Future<void> _loadBaseSatelliteReport() async {
     try {
-      final raw =
-          await rootBundle.loadString('assets/data/doluluk_raporu.json');
-      final Map<String, dynamic> data = json.decode(raw);
-      final Map<String, dynamic> provs =
-          (data['provinces'] as Map<String, dynamic>?) ?? {};
+      Map<String, dynamic> provs = {};
+
+      // 1) Supabase: province_satellite_metrics tablosu
+      try {
+        final uri = Uri.parse(
+          '$_supabaseUrl/rest/v1/province_satellite_metrics?select=*',
+        );
+        final response = await http.get(uri, headers: {
+          'apikey': _supabaseAnonKey,
+          'Authorization': 'Bearer $_supabaseAnonKey',
+        }).timeout(const Duration(seconds: 20));
+        if (response.statusCode == 200) {
+          final decoded = json.decode(utf8.decode(response.bodyBytes));
+          if (decoded is List) {
+            for (final row in decoded) {
+              if (row is! Map<String, dynamic>) continue;
+              final name =
+                  (row['province'] ?? row['province_name'] ?? row['name'])
+                      ?.toString();
+              if (name == null || name.isEmpty) continue;
+              provs[name] = row;
+            }
+          }
+        }
+      } catch (_) {}
+
+      // 2) Supabase ulaşılamazsa yerel JSON yedeği
+      if (provs.isEmpty) {
+        final raw =
+            await rootBundle.loadString('assets/data/doluluk_raporu.json');
+        final Map<String, dynamic> data = json.decode(raw);
+        provs = (data['provinces'] as Map<String, dynamic>?) ?? {};
+      }
 
       // Harita kısa adları için alias kopyaları da oluştur (Afyon -> Afyonkarahisar)
       final enriched = Map<String, dynamic>.from(provs);
