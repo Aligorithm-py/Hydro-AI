@@ -2,7 +2,7 @@ name: Daily Sentinel-2 Satellite Sync
 
 on:
   schedule:
-    - cron: '0 3 * * *' # Her gün TSİ 06:00'da otomatik çalışır
+    - cron: '0 */6 * * *' # Her gün 6 saatte bir otomatik çalışır
   workflow_dispatch:
 
 jobs:
