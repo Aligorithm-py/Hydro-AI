@@ -1,0 +1,26 @@
+name: hydro_ai_app
+description: "Hydro AI - Turkiye Su Rezervi ve Doluluk Analiz Platformu"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  path_drawing: ^1.0.1
+  xml: ^6.5.0
+  http: ^1.6.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/maps/
+    - assets/data/

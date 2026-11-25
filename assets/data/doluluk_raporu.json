@@ -1,0 +1,4619 @@
+{
+  "reservoirs": {
+    "wd_1090359": {
+      "name": "Güldürcek Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Çankırı"
+      ],
+      "current_area_m2": 1410990.05,
+      "max_surface_area_m2": 3100000.0,
+      "surface_area_pct": 45.52,
+      "volumetric_fill_pct": 17.7
+    },
+    "wd_1090339": {
+      "name": "Yaylakavak Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Aydın"
+      ],
+      "current_area_m2": 382922.26,
+      "max_surface_area_m2": 990000.0,
+      "surface_area_pct": 38.68,
+      "volumetric_fill_pct": 12.37
+    },
+    "wd_1090317": {
+      "name": "Hasanağa Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Bursa"
+      ],
+      "current_area_m2": 195820.31,
+      "max_surface_area_m2": 310000.0,
+      "surface_area_pct": 63.17,
+      "volumetric_fill_pct": 36.4
+    },
+    "wd_1090310": {
+      "name": "Beyler Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Kastamonu"
+      ],
+      "current_area_m2": 1074722.17,
+      "max_surface_area_m2": 2300000.0,
+      "surface_area_pct": 46.73,
+      "volumetric_fill_pct": 18.75
+    },
+    "wd_1090305": {
+      "name": "Ürkmez Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "İzmir"
+      ],
+      "current_area_m2": 417773.75,
+      "max_surface_area_m2": 570000.0,
+      "surface_area_pct": 73.29,
+      "volumetric_fill_pct": 50.48
+    },
+    "wd_1090323": {
+      "name": "Doğancı-1 Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Bursa"
+      ],
+      "current_area_m2": 1428929.9,
+      "max_surface_area_m2": 1550000.0,
+      "surface_area_pct": 92.19,
+      "volumetric_fill_pct": 83.62
+    },
+    "wd_1090302": {
+      "name": "Uluköy Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Amasya"
+      ],
+      "current_area_m2": 290531.36,
+      "max_surface_area_m2": 580000.0,
+      "surface_area_pct": 50.09,
+      "volumetric_fill_pct": 21.85
+    },
+    "wd_1090309": {
+      "name": "Ağcaşar Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Kayseri"
+      ],
+      "current_area_m2": 2896961.41,
+      "max_surface_area_m2": 4170000.0,
+      "surface_area_pct": 69.47,
+      "volumetric_fill_pct": 44.87
+    },
+    "wd_1090334": {
+      "name": "Armağan Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Kırklareli"
+      ],
+      "current_area_m2": 1216895.14,
+      "max_surface_area_m2": 3000000.0,
+      "surface_area_pct": 40.56,
+      "volumetric_fill_pct": 13.74
+    },
+    "wd_1090354": {
+      "name": "Bozkır Barajı (Aksaray)",
+      "source_type": "dam",
+      "provinces": [
+        "Aksaray"
+      ],
+      "current_area_m2": 343597.25,
+      "max_surface_area_m2": 510000.0,
+      "surface_area_pct": 67.37,
+      "volumetric_fill_pct": 41.94
+    },
+    "wd_1090318": {
+      "name": "Patnos Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Ağrı"
+      ],
+      "current_area_m2": 3566463.68,
+      "max_surface_area_m2": 4350000.0,
+      "surface_area_pct": 81.99,
+      "volumetric_fill_pct": 64.6
+    },
+    "wd_1090329": {
+      "name": "Nergizlik Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Adana"
+      ],
+      "current_area_m2": 858141.21,
+      "max_surface_area_m2": 1080000.0,
+      "surface_area_pct": 79.46,
+      "volumetric_fill_pct": 60.3
+    },
+    "wd_1090325": {
+      "name": "Palandöken Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Erzurum"
+      ],
+      "current_area_m2": 7766945.62,
+      "max_surface_area_m2": 5050000.0,
+      "surface_area_pct": 100.0,
+      "volumetric_fill_pct": 100.0
+    },
+    "wd_1090355": {
+      "name": "Seve Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Kilis"
+      ],
+      "current_area_m2": 1939323.34,
+      "max_surface_area_m2": 1960000.0,
+      "surface_area_pct": 98.95,
+      "volumetric_fill_pct": 97.69
+    },
+    "wd_1090504": {
+      "name": "Balçova Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "İzmir"
+      ],
+      "current_area_m2": 200285.71,
+      "max_surface_area_m2": 350000.0,
+      "surface_area_pct": 57.22,
+      "volumetric_fill_pct": 29.29
+    },
+    "wd_1090518": {
+      "name": "Kızılcapınar Barajı ve Hidroelektrik Santrali",
+      "source_type": "dam",
+      "provinces": [
+        "Zonguldak"
+      ],
+      "current_area_m2": 1405956.67,
+      "max_surface_area_m2": 2450000.0,
+      "surface_area_pct": 57.39,
+      "volumetric_fill_pct": 29.47
+    },
+    "wd_1090453": {
+      "name": "Topçam Barajı (Aydın)",
+      "source_type": "dam",
+      "provinces": [
+        "Aydın"
+      ],
+      "current_area_m2": 2231593.51,
+      "max_surface_area_m2": 4200000.0,
+      "surface_area_pct": 53.13,
+      "volumetric_fill_pct": 24.88
+    },
+    "wd_1090477": {
+      "name": "Sultanköy Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Edirne"
+      ],
+      "current_area_m2": 634053.24,
+      "max_surface_area_m2": 3370000.0,
+      "surface_area_pct": 18.81,
+      "volumetric_fill_pct": 2.53
+    },
+    "wd_1090448": {
+      "name": "Karaova Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Kırşehir"
+      ],
+      "current_area_m2": 640612.79,
+      "max_surface_area_m2": 3500000.0,
+      "surface_area_pct": 18.3,
+      "volumetric_fill_pct": 2.39
+    },
+    "wd_1090509": {
+      "name": "Büyükçekmece Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "İstanbul"
+      ],
+      "current_area_m2": 251343083.5,
+      "max_surface_area_m2": 43000000.0,
+      "surface_area_pct": 100.0,
+      "volumetric_fill_pct": 100.0
+    },
+    "wd_1090514": {
+      "name": "Çorum Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Çorum"
+      ],
+      "current_area_m2": 456568.51,
+      "max_surface_area_m2": 560000.0,
+      "surface_area_pct": 81.53,
+      "volumetric_fill_pct": 63.81
+    },
+    "wd_1090440": {
+      "name": "Çavdır Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Burdur"
+      ],
+      "current_area_m2": 1703873.91,
+      "max_surface_area_m2": 1940000.0,
+      "surface_area_pct": 87.83,
+      "volumetric_fill_pct": 75.16
+    },
+    "wd_1090465": {
+      "name": "Çamköy Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Balıkesir"
+      ],
+      "current_area_m2": 662477.07,
+      "max_surface_area_m2": 690000.0,
+      "surface_area_pct": 96.01,
+      "volumetric_fill_pct": 91.43
+    },
+    "wd_1090445": {
+      "name": "Sarıbeyler Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Balıkesir"
+      ],
+      "current_area_m2": 796513.18,
+      "max_surface_area_m2": 1370000.0,
+      "surface_area_pct": 58.14,
+      "volumetric_fill_pct": 30.33
+    },
+    "wd_1090471": {
+      "name": "Kunduzlar Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Eskişehir"
+      ],
+      "current_area_m2": 874743.31,
+      "max_surface_area_m2": 2640000.0,
+      "surface_area_pct": 33.13,
+      "volumetric_fill_pct": 8.8
+    },
+    "wd_1090436": {
+      "name": "Yarseli Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Hatay"
+      ],
+      "current_area_m2": 2545353.81,
+      "max_surface_area_m2": 3980000.0,
+      "surface_area_pct": 63.95,
+      "volumetric_fill_pct": 37.4
+    },
+    "wd_1089330": {
+      "name": "Gölköy Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Bolu"
+      ],
+      "current_area_m2": 1415361.29,
+      "max_surface_area_m2": 1310000.0,
+      "surface_area_pct": 100.0,
+      "volumetric_fill_pct": 100.0
+    },
+    "wd_1089288": {
+      "name": "Ayrancı Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Karaman"
+      ],
+      "current_area_m2": 509798.58,
+      "max_surface_area_m2": 2000000.0,
+      "surface_area_pct": 25.49,
+      "volumetric_fill_pct": 4.94
+    },
+    "wd_1089374": {
+      "name": "Karaçomak Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Kastamonu"
+      ],
+      "current_area_m2": 710536.49,
+      "max_surface_area_m2": 1430000.0,
+      "surface_area_pct": 49.69,
+      "volumetric_fill_pct": 21.47
+    },
+    "wd_1089277": {
+      "name": "Kadıköy Barajı (Edirne)",
+      "source_type": "dam",
+      "provinces": [
+        "Edirne"
+      ],
+      "current_area_m2": 1199883.91,
+      "max_surface_area_m2": 6200000.0,
+      "surface_area_pct": 19.35,
+      "volumetric_fill_pct": 2.7
+    },
+    "wd_1089262": {
+      "name": "Damsa Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Nevşehir"
+      ],
+      "current_area_m2": 622637.95,
+      "max_surface_area_m2": 820000.0,
+      "surface_area_pct": 75.93,
+      "volumetric_fill_pct": 54.57
+    },
+    "wd_1089269": {
+      "name": "Selevir Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Afyonkarahisar"
+      ],
+      "current_area_m2": 3547487.55,
+      "max_surface_area_m2": 5040000.0,
+      "surface_area_pct": 70.39,
+      "volumetric_fill_pct": 46.18
+    },
+    "wd_1089311": {
+      "name": "Apa Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Konya"
+      ],
+      "current_area_m2": 4469969.97,
+      "max_surface_area_m2": 12600000.0,
+      "surface_area_pct": 35.48,
+      "volumetric_fill_pct": 10.23
+    },
+    "wd_1089321": {
+      "name": "Sürgü Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Malatya"
+      ],
+      "current_area_m2": 2667237.12,
+      "max_surface_area_m2": 5100000.0,
+      "surface_area_pct": 52.3,
+      "volumetric_fill_pct": 24.03
+    },
+    "wd_1089366": {
+      "name": "Kesikköprü Barajı ve Hidroelektrik Santrali",
+      "source_type": "dam",
+      "provinces": [
+        "Ankara"
+      ],
+      "current_area_m2": 3262953.19,
+      "max_surface_area_m2": 6500000.0,
+      "surface_area_pct": 50.2,
+      "volumetric_fill_pct": 21.96
+    },
+    "wd_1089302": {
+      "name": "Onaç-1 Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Burdur"
+      ],
+      "current_area_m2": 487640.92,
+      "max_surface_area_m2": 1340000.0,
+      "surface_area_pct": 36.39,
+      "volumetric_fill_pct": 10.82
+    },
+    "wd_1091809": {
+      "name": "Belpınar Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Tokat"
+      ],
+      "current_area_m2": 1555755.08,
+      "max_surface_area_m2": 1730000.0,
+      "surface_area_pct": 89.93,
+      "volumetric_fill_pct": 79.17
+    },
+    "wd_1091798": {
+      "name": "Ataköy Barajı ve Hidroelektrik Santrali",
+      "source_type": "dam",
+      "provinces": [
+        "Tokat"
+      ],
+      "current_area_m2": 160287.78,
+      "max_surface_area_m2": 500000.0,
+      "surface_area_pct": 32.06,
+      "volumetric_fill_pct": 8.19
+    },
+    "wd_1129642": {
+      "name": "Altunhisar Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Niğde"
+      ],
+      "current_area_m2": 108896.48,
+      "max_surface_area_m2": 120709.73,
+      "surface_area_pct": 90.21,
+      "volumetric_fill_pct": 79.73
+    },
+    "wd_1091821": {
+      "name": "İkizcetepeler Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Balıkesir"
+      ],
+      "current_area_m2": 5989675.78,
+      "max_surface_area_m2": 9600000.0,
+      "surface_area_pct": 62.39,
+      "volumetric_fill_pct": 35.42
+    },
+    "wd_1200190": {
+      "name": "Deriner Barajı ve Hidroelektrik Santrali",
+      "source_type": "dam",
+      "provinces": [
+        "Artvin"
+      ],
+      "current_area_m2": 16855330.08,
+      "max_surface_area_m2": 26400000.0,
+      "surface_area_pct": 63.85,
+      "volumetric_fill_pct": 37.26
+    },
+    "wd_1091847": {
+      "name": "Arpaçay Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Kars"
+      ],
+      "current_area_m2": 32200644.29,
+      "max_surface_area_m2": 41800000.0,
+      "surface_area_pct": 77.04,
+      "volumetric_fill_pct": 56.33
+    },
+    "wd_1091806": {
+      "name": "Seferihisar Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "İzmir"
+      ],
+      "current_area_m2": 931811.68,
+      "max_surface_area_m2": 1790000.0,
+      "surface_area_pct": 52.06,
+      "volumetric_fill_pct": 23.78
+    },
+    "wd_1328922": {
+      "name": "Torul Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Gümüşhane"
+      ],
+      "current_area_m2": 1521062.4,
+      "max_surface_area_m2": 3860000.0,
+      "surface_area_pct": 39.41,
+      "volumetric_fill_pct": 12.89
+    },
+    "wd_1355896": {
+      "name": "Ermenek Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Karaman"
+      ],
+      "current_area_m2": 49420904.74,
+      "max_surface_area_m2": 58740000.0,
+      "surface_area_pct": 84.14,
+      "volumetric_fill_pct": 68.38
+    },
+    "wd_1091839": {
+      "name": "Madra Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Balıkesir",
+        "İzmir"
+      ],
+      "current_area_m2": 1257334.5,
+      "max_surface_area_m2": 2680000.0,
+      "surface_area_pct": 46.92,
+      "volumetric_fill_pct": 18.92
+    },
+    "wd_1091820": {
+      "name": "Sıddıklı Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Kırşehir"
+      ],
+      "current_area_m2": 401486.57,
+      "max_surface_area_m2": 1650000.0,
+      "surface_area_pct": 24.33,
+      "volumetric_fill_pct": 4.46
+    },
+    "wd_1091814": {
+      "name": "Sorgun Barajı (Isparta)",
+      "source_type": "dam",
+      "provinces": [
+        "Isparta"
+      ],
+      "current_area_m2": 749366.24,
+      "max_surface_area_m2": 1220000.0,
+      "surface_area_pct": 61.42,
+      "volumetric_fill_pct": 34.22
+    },
+    "wd_256099": {
+      "name": "Borçka Barajı ve Hidroelektrik Santrali",
+      "source_type": "dam",
+      "provinces": [
+        "Artvin"
+      ],
+      "current_area_m2": 5400753.44,
+      "max_surface_area_m2": 10840000.0,
+      "surface_area_pct": 49.82,
+      "volumetric_fill_pct": 21.59
+    },
+    "wd_1934539": {
+      "name": "Oymapınar Barajı ve Hidroelektrik Santrali",
+      "source_type": "dam",
+      "provinces": [
+        "Antalya"
+      ],
+      "current_area_m2": 6000253.97,
+      "max_surface_area_m2": 4700000.0,
+      "surface_area_pct": 100.0,
+      "volumetric_fill_pct": 100.0
+    },
+    "wd_1090426": {
+      "name": "Geyik Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Muğla"
+      ],
+      "current_area_m2": 1841212.68,
+      "max_surface_area_m2": 3740000.0,
+      "surface_area_pct": 49.23,
+      "volumetric_fill_pct": 21.03
+    },
+    "wd_2611551": {
+      "name": "Dicle Barajı ve Hidroelektrik Santrali",
+      "source_type": "dam",
+      "provinces": [
+        "Diyarbakır"
+      ],
+      "current_area_m2": 0.0,
+      "max_surface_area_m2": 24000000.0,
+      "surface_area_pct": 0.0,
+      "volumetric_fill_pct": 0.0
+    },
+    "wd_1090362": {
+      "name": "Örenler Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Afyonkarahisar"
+      ],
+      "current_area_m2": 2388166.81,
+      "max_surface_area_m2": 3250000.0,
+      "surface_area_pct": 73.48,
+      "volumetric_fill_pct": 50.77
+    },
+    "wd_1090408": {
+      "name": "Gönen Barajı ve Hidroelektrik Santrali",
+      "source_type": "dam",
+      "provinces": [
+        "Çanakkale"
+      ],
+      "current_area_m2": 1533702.39,
+      "max_surface_area_m2": 14000000.0,
+      "surface_area_pct": 10.96,
+      "volumetric_fill_pct": 0.77
+    },
+    "wd_1090386": {
+      "name": "Ulutan (Kozlu) Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Zonguldak"
+      ],
+      "current_area_m2": 758033.35,
+      "max_surface_area_m2": 1070000.0,
+      "surface_area_pct": 70.84,
+      "volumetric_fill_pct": 46.85
+    },
+    "wd_2636533": {
+      "name": "Alaköprü",
+      "source_type": "dam",
+      "provinces": [
+        "Mersin"
+      ],
+      "current_area_m2": 2843222.11,
+      "max_surface_area_m2": 3360839.37,
+      "surface_area_pct": 84.6,
+      "volumetric_fill_pct": 69.21
+    },
+    "wd_1090368": {
+      "name": "Çamlıdere Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Ankara"
+      ],
+      "current_area_m2": 14832070.31,
+      "max_surface_area_m2": 32000000.0,
+      "surface_area_pct": 46.35,
+      "volumetric_fill_pct": 18.42
+    },
+    "wd_1090415": {
+      "name": "Çakmak Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Samsun"
+      ],
+      "current_area_m2": 6529846.95,
+      "max_surface_area_m2": 6280000.0,
+      "surface_area_pct": 100.0,
+      "volumetric_fill_pct": 100.0
+    },
+    "wd_2577512": {
+      "name": "Yortanlı Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "İzmir"
+      ],
+      "current_area_m2": 4007261.81,
+      "max_surface_area_m2": 4250000.0,
+      "surface_area_pct": 94.29,
+      "volumetric_fill_pct": 87.86
+    },
+    "wd_152556": {
+      "name": "Karakaya Barajı ve Hidroelektrik Santrali",
+      "source_type": "dam",
+      "provinces": [
+        "Diyarbakır",
+        "Elazığ",
+        "Malatya"
+      ],
+      "current_area_m2": 119714082.03,
+      "max_surface_area_m2": 268000000.0,
+      "surface_area_pct": 44.67,
+      "volumetric_fill_pct": 16.98
+    },
+    "wd_368593": {
+      "name": "Kayaboğazı Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Kütahya"
+      ],
+      "current_area_m2": 1992090.45,
+      "max_surface_area_m2": 3000000.0,
+      "surface_area_pct": 66.4,
+      "volumetric_fill_pct": 40.63
+    },
+    "wd_2260172": {
+      "name": "Buldan Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Denizli"
+      ],
+      "current_area_m2": 500646.97,
+      "max_surface_area_m2": 3100000.0,
+      "surface_area_pct": 16.15,
+      "volumetric_fill_pct": 1.81
+    },
+    "wd_1090393": {
+      "name": "Gökçe Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Yalova"
+      ],
+      "current_area_m2": 677348.44,
+      "max_surface_area_m2": 1280000.0,
+      "surface_area_pct": 52.92,
+      "volumetric_fill_pct": 24.66
+    },
+    "wd_1090421": {
+      "name": "Gölova Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Sivas"
+      ],
+      "current_area_m2": 4007732.85,
+      "max_surface_area_m2": 4850000.0,
+      "surface_area_pct": 82.63,
+      "volumetric_fill_pct": 65.73
+    },
+    "wd_447172": {
+      "name": "Altınkaya Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Samsun",
+        "Sinop"
+      ],
+      "current_area_m2": 49522382.35,
+      "max_surface_area_m2": 118310000.0,
+      "surface_area_pct": 41.86,
+      "volumetric_fill_pct": 14.72
+    },
+    "wd_384511": {
+      "name": "Kozağacı Barajı (Burdur)",
+      "source_type": "dam",
+      "provinces": [
+        "Burdur"
+      ],
+      "current_area_m2": 123750.0,
+      "max_surface_area_m2": 160000.0,
+      "surface_area_pct": 77.34,
+      "volumetric_fill_pct": 56.82
+    },
+    "wd_2260764": {
+      "name": "Hirfanlı Barajı ve Hidroelektrik Santrali",
+      "source_type": "dam",
+      "provinces": [
+        "Kırşehir"
+      ],
+      "current_area_m2": 233262250.98,
+      "max_surface_area_m2": 263000000.0,
+      "surface_area_pct": 88.69,
+      "volumetric_fill_pct": 76.8
+    },
+    "wd_2260223": {
+      "name": "Mamasın Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Aksaray"
+      ],
+      "current_area_m2": 6218035.4,
+      "max_surface_area_m2": 16200000.0,
+      "surface_area_pct": 38.38,
+      "volumetric_fill_pct": 12.16
+    },
+    "wd_1090378": {
+      "name": "Aslantaş Barajı ve Hidroelektrik Santrali",
+      "source_type": "dam",
+      "provinces": [
+        "Osmaniye"
+      ],
+      "current_area_m2": 39290289.92,
+      "max_surface_area_m2": 49000000.0,
+      "surface_area_pct": 80.18,
+      "volumetric_fill_pct": 61.52
+    },
+    "wd_1090374": {
+      "name": "Akgedik Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Muğla"
+      ],
+      "current_area_m2": 675981.08,
+      "max_surface_area_m2": 1450000.0,
+      "surface_area_pct": 46.62,
+      "volumetric_fill_pct": 18.66
+    },
+    "wd_2506536": {
+      "name": "Kralkızı Barajı ve Hidroelektrik Santrali",
+      "source_type": "dam",
+      "provinces": [
+        "Diyarbakır"
+      ],
+      "current_area_m2": 37399285.89,
+      "max_surface_area_m2": 57500000.0,
+      "surface_area_pct": 65.04,
+      "volumetric_fill_pct": 38.82
+    },
+    "wd_1090401": {
+      "name": "Uluborlu Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Isparta"
+      ],
+      "current_area_m2": 526554.11,
+      "max_surface_area_m2": 1250000.0,
+      "surface_area_pct": 42.12,
+      "volumetric_fill_pct": 14.93
+    },
+    "wd_2271832": {
+      "name": "Kiğı Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Bingöl"
+      ],
+      "current_area_m2": 4826324.14,
+      "max_surface_area_m2": 6459194.68,
+      "surface_area_pct": 74.72,
+      "volumetric_fill_pct": 52.67
+    },
+    "wd_426801": {
+      "name": "Germeçtepe Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Kastamonu"
+      ],
+      "current_area_m2": 3512.6,
+      "max_surface_area_m2": 450000.0,
+      "surface_area_pct": 0.78,
+      "volumetric_fill_pct": 0.0
+    },
+    "wd_379180": {
+      "name": "Tahtalı Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "İzmir"
+      ],
+      "current_area_m2": 112276059.08,
+      "max_surface_area_m2": 23520000.0,
+      "surface_area_pct": 100.0,
+      "volumetric_fill_pct": 100.0
+    },
+    "wd_307943": {
+      "name": "Özlüce Barajı ve Hidroelektrik Santrali",
+      "source_type": "dam",
+      "provinces": [
+        "Bingöl",
+        "Elazığ"
+      ],
+      "current_area_m2": 12958358.64,
+      "max_surface_area_m2": 25800000.0,
+      "surface_area_pct": 50.23,
+      "volumetric_fill_pct": 21.98
+    },
+    "wd_2885011": {
+      "name": "Alibey Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "İstanbul"
+      ],
+      "current_area_m2": 3489487.87,
+      "max_surface_area_m2": 4660000.0,
+      "surface_area_pct": 74.88,
+      "volumetric_fill_pct": 52.92
+    },
+    "wd_1090380": {
+      "name": "Adıgüzel Barajı ve Hidroelektrik Santrali",
+      "source_type": "dam",
+      "provinces": [
+        "Denizli"
+      ],
+      "current_area_m2": 4308309.45,
+      "max_surface_area_m2": 25900000.0,
+      "surface_area_pct": 16.63,
+      "volumetric_fill_pct": 1.93
+    },
+    "wd_1090431": {
+      "name": "Berdan Barajı ve Hidroelektrik Santrali",
+      "source_type": "dam",
+      "provinces": [
+        "Mersin"
+      ],
+      "current_area_m2": 6494856.64,
+      "max_surface_area_m2": 6600012.11,
+      "surface_area_pct": 98.41,
+      "volumetric_fill_pct": 96.53
+    },
+    "wd_2885009": {
+      "name": "Akköy Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Kayseri"
+      ],
+      "current_area_m2": 340649.89,
+      "max_surface_area_m2": 790000.0,
+      "surface_area_pct": 43.12,
+      "volumetric_fill_pct": 15.71
+    },
+    "wd_745032": {
+      "name": "Çatak Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Kastamonu"
+      ],
+      "current_area_m2": 54580.08,
+      "max_surface_area_m2": 100000.0,
+      "surface_area_pct": 54.58,
+      "volumetric_fill_pct": 26.39
+    },
+    "wd_738309": {
+      "name": "Derbent Barajı ve Hidroelektrik Santrali",
+      "source_type": "dam",
+      "provinces": [
+        "Samsun"
+      ],
+      "current_area_m2": 12279981.99,
+      "max_surface_area_m2": 16500000.0,
+      "surface_area_pct": 74.42,
+      "volumetric_fill_pct": 52.21
+    },
+    "wd_921621": {
+      "name": "Zernek Barajı ve Hidroelektrik Santrali",
+      "source_type": "dam",
+      "provinces": [
+        "Van"
+      ],
+      "current_area_m2": 2926394.6,
+      "max_surface_area_m2": 5160000.0,
+      "surface_area_pct": 56.71,
+      "volumetric_fill_pct": 28.71
+    },
+    "wd_612307": {
+      "name": "Sarımehmet Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Van"
+      ],
+      "current_area_m2": 4100379.46,
+      "max_surface_area_m2": 10300000.0,
+      "surface_area_pct": 39.81,
+      "volumetric_fill_pct": 13.18
+    },
+    "wd_516948": {
+      "name": "Sultansuyu Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Malatya"
+      ],
+      "current_area_m2": 1539031.86,
+      "max_surface_area_m2": 2260000.0,
+      "surface_area_pct": 68.1,
+      "volumetric_fill_pct": 42.94
+    },
+    "wd_584704": {
+      "name": "Sarayözü Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Amasya"
+      ],
+      "current_area_m2": 414514.16,
+      "max_surface_area_m2": 880000.0,
+      "surface_area_pct": 47.1,
+      "volumetric_fill_pct": 19.09
+    },
+    "wd_598946": {
+      "name": "Çaygören Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Balıkesir"
+      ],
+      "current_area_m2": 4133163.76,
+      "max_surface_area_m2": 7250000.0,
+      "surface_area_pct": 57.01,
+      "volumetric_fill_pct": 29.05
+    },
+    "wd_746356": {
+      "name": "Hancağız Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Gaziantep"
+      ],
+      "current_area_m2": 3038200.38,
+      "max_surface_area_m2": 7500000.0,
+      "surface_area_pct": 40.51,
+      "volumetric_fill_pct": 13.7
+    },
+    "wd_648039": {
+      "name": "Tahtaköprü Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Gaziantep"
+      ],
+      "current_area_m2": 25225339.97,
+      "max_surface_area_m2": 23400000.0,
+      "surface_area_pct": 100.0,
+      "volumetric_fill_pct": 100.0
+    },
+    "wd_979619": {
+      "name": "Büyükorhan Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Bursa"
+      ],
+      "current_area_m2": 573913.7,
+      "max_surface_area_m2": 700000.0,
+      "surface_area_pct": 81.99,
+      "volumetric_fill_pct": 64.6
+    },
+    "wd_736734": {
+      "name": "Afşar Barajı (Manisa)",
+      "source_type": "dam",
+      "provinces": [
+        "Manisa"
+      ],
+      "current_area_m2": 4435772.55,
+      "max_surface_area_m2": 5250000.0,
+      "surface_area_pct": 84.49,
+      "volumetric_fill_pct": 69.02
+    },
+    "wd_683722": {
+      "name": "Çat Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Adıyaman",
+        "Malatya"
+      ],
+      "current_area_m2": 9214649.78,
+      "max_surface_area_m2": 14300000.0,
+      "surface_area_pct": 64.44,
+      "volumetric_fill_pct": 38.03
+    },
+    "wd_1090525": {
+      "name": "Gayt Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Bingöl"
+      ],
+      "current_area_m2": 2148033.91,
+      "max_surface_area_m2": 2920000.0,
+      "surface_area_pct": 73.56,
+      "volumetric_fill_pct": 50.89
+    },
+    "wd_966723": {
+      "name": "Sille Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Konya"
+      ],
+      "current_area_m2": 207070.31,
+      "max_surface_area_m2": 200000.0,
+      "surface_area_pct": 100.0,
+      "volumetric_fill_pct": 100.0
+    },
+    "wd_585514": {
+      "name": "Tayfur Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Çanakkale"
+      ],
+      "current_area_m2": 177743.13,
+      "max_surface_area_m2": 470000.0,
+      "surface_area_pct": 37.82,
+      "volumetric_fill_pct": 11.77
+    },
+    "wd_959535": {
+      "name": "Kurtboğazı Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Ankara"
+      ],
+      "current_area_m2": 3014110.11,
+      "max_surface_area_m2": 5500000.0,
+      "surface_area_pct": 54.8,
+      "volumetric_fill_pct": 26.63
+    },
+    "wd_939312": {
+      "name": "Uzunlu Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Yozgat"
+      ],
+      "current_area_m2": 2451555.18,
+      "max_surface_area_m2": 2750000.0,
+      "surface_area_pct": 89.15,
+      "volumetric_fill_pct": 77.67
+    },
+    "wd_895864": {
+      "name": "Boyabat Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Sinop"
+      ],
+      "current_area_m2": 38494189.45,
+      "max_surface_area_m2": 60000000.0,
+      "surface_area_pct": 64.16,
+      "volumetric_fill_pct": 37.66
+    },
+    "wd_935562": {
+      "name": "Karaidemir Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Tekirdağ"
+      ],
+      "current_area_m2": 3416915.59,
+      "max_surface_area_m2": 15500000.0,
+      "surface_area_pct": 22.04,
+      "volumetric_fill_pct": 3.59
+    },
+    "wd_810848": {
+      "name": "Batman Barajı ve Hidroelektrik Santrali",
+      "source_type": "dam",
+      "provinces": [
+        "Batman",
+        "Diyarbakır"
+      ],
+      "current_area_m2": 32875817.87,
+      "max_surface_area_m2": 49250000.0,
+      "surface_area_pct": 66.75,
+      "volumetric_fill_pct": 41.1
+    },
+    "wd_753776": {
+      "name": "Atatürk Barajı ve Hidroelektrik Santrali",
+      "source_type": "dam",
+      "provinces": [
+        "Adıyaman",
+        "Şanlıurfa",
+        "Diyarbakır"
+      ],
+      "current_area_m2": 618869521.48,
+      "max_surface_area_m2": 817000000.0,
+      "surface_area_pct": 75.75,
+      "volumetric_fill_pct": 54.28
+    },
+    "wd_743041": {
+      "name": "Kızıldamlar Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Bilecik"
+      ],
+      "current_area_m2": 547767.0,
+      "max_surface_area_m2": 970000.0,
+      "surface_area_pct": 56.47,
+      "volumetric_fill_pct": 28.45
+    },
+    "wd_612091": {
+      "name": "Kırklareli Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Kırklareli"
+      ],
+      "current_area_m2": 1887519.84,
+      "max_surface_area_m2": 6250000.0,
+      "surface_area_pct": 30.2,
+      "volumetric_fill_pct": 7.18
+    },
+    "wd_677072": {
+      "name": "Gökçekaya Barajı ve Hidroelektrik Santrali",
+      "source_type": "dam",
+      "provinces": [
+        "Eskişehir",
+        "Sakarya"
+      ],
+      "current_area_m2": 8128784.18,
+      "max_surface_area_m2": 20000000.0,
+      "surface_area_pct": 40.64,
+      "volumetric_fill_pct": 13.8
+    },
+    "wd_974488": {
+      "name": "Kestel Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "İzmir"
+      ],
+      "current_area_m2": 1568478.52,
+      "max_surface_area_m2": 2400000.0,
+      "surface_area_pct": 65.35,
+      "volumetric_fill_pct": 39.23
+    },
+    "wd_784158": {
+      "name": "Alaca Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Çorum"
+      ],
+      "current_area_m2": 400302.25,
+      "max_surface_area_m2": 800000.0,
+      "surface_area_pct": 50.04,
+      "volumetric_fill_pct": 21.8
+    },
+    "wd_1090529": {
+      "name": "Akyar Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Ankara"
+      ],
+      "current_area_m2": 888890.63,
+      "max_surface_area_m2": 1920000.0,
+      "surface_area_pct": 46.3,
+      "volumetric_fill_pct": 18.37
+    },
+    "wd_2885179": {
+      "name": "Kayalıköy Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Kırklareli"
+      ],
+      "current_area_m2": 3706402.59,
+      "max_surface_area_m2": 10200000.0,
+      "surface_area_pct": 36.34,
+      "volumetric_fill_pct": 10.78
+    },
+    "wd_2885116": {
+      "name": "Dodurga Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Sinop"
+      ],
+      "current_area_m2": 213800.48,
+      "max_surface_area_m2": 330000.0,
+      "surface_area_pct": 64.79,
+      "volumetric_fill_pct": 38.48
+    },
+    "wd_2885348": {
+      "name": "Alakır Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Antalya"
+      ],
+      "current_area_m2": 3245258.28,
+      "max_surface_area_m2": 4280000.0,
+      "surface_area_pct": 75.82,
+      "volumetric_fill_pct": 54.4
+    },
+    "wd_2885173": {
+      "name": "Kapulukaya Barajı ve Hidroelektrik Santrali",
+      "source_type": "dam",
+      "provinces": [
+        "Kırıkkale"
+      ],
+      "current_area_m2": 6635914.12,
+      "max_surface_area_m2": 20700000.0,
+      "surface_area_pct": 32.06,
+      "volumetric_fill_pct": 8.19
+    },
+    "wd_1090606": {
+      "name": "Demirtaş Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Bursa"
+      ],
+      "current_area_m2": 854599.0,
+      "max_surface_area_m2": 2500000.0,
+      "surface_area_pct": 34.18,
+      "volumetric_fill_pct": 9.43
+    },
+    "wd_1090600": {
+      "name": "Hacıhıdır Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Şanlıurfa"
+      ],
+      "current_area_m2": 2641047.36,
+      "max_surface_area_m2": 4400000.0,
+      "surface_area_pct": 60.02,
+      "volumetric_fill_pct": 32.53
+    },
+    "wd_2885113": {
+      "name": "Dilimli Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Hakkâri"
+      ],
+      "current_area_m2": 1967469.93,
+      "max_surface_area_m2": 2410000.0,
+      "surface_area_pct": 81.64,
+      "volumetric_fill_pct": 64.0
+    },
+    "wd_2885305": {
+      "name": "Suat Uğurlu Barajı ve Hidroelektrik Santrali",
+      "source_type": "dam",
+      "provinces": [
+        "Samsun"
+      ],
+      "current_area_m2": 11085885.13,
+      "max_surface_area_m2": 9700000.0,
+      "surface_area_pct": 100.0,
+      "volumetric_fill_pct": 100.0
+    },
+    "wd_2885194": {
+      "name": "Kültepe Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Aksaray",
+        "Kırşehir"
+      ],
+      "current_area_m2": 466409.18,
+      "max_surface_area_m2": 2400000.0,
+      "surface_area_pct": 19.43,
+      "volumetric_fill_pct": 2.72
+    },
+    "wd_2885191": {
+      "name": "Korkuteli Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Antalya"
+      ],
+      "current_area_m2": 1874196.17,
+      "max_surface_area_m2": 2200000.0,
+      "surface_area_pct": 85.19,
+      "volumetric_fill_pct": 70.29
+    },
+    "wd_2885309": {
+      "name": "Süloğlu Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Edirne"
+      ],
+      "current_area_m2": 1788375.59,
+      "max_surface_area_m2": 2880000.0,
+      "surface_area_pct": 62.1,
+      "volumetric_fill_pct": 35.05
+    },
+    "wd_2885244": {
+      "name": "Muratlı Barajı ve Hidroelektrik Santrali",
+      "source_type": "dam",
+      "provinces": [
+        "Artvin"
+      ],
+      "current_area_m2": 1910291.2,
+      "max_surface_area_m2": 4100000.0,
+      "surface_area_pct": 46.59,
+      "volumetric_fill_pct": 18.63
+    },
+    "wd_2885336": {
+      "name": "Yapraklı Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Burdur"
+      ],
+      "current_area_m2": 4986282.35,
+      "max_surface_area_m2": 6500000.0,
+      "surface_area_pct": 76.71,
+      "volumetric_fill_pct": 55.81
+    },
+    "wd_2885225": {
+      "name": "Manyas Barajı ve Hidroelektrik Santrali",
+      "source_type": "dam",
+      "provinces": [
+        "Balıkesir"
+      ],
+      "current_area_m2": 5760993.16,
+      "max_surface_area_m2": 16800000.0,
+      "surface_area_pct": 34.29,
+      "volumetric_fill_pct": 9.49
+    },
+    "wd_1090589": {
+      "name": "Eğrekkaya Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Ankara"
+      ],
+      "current_area_m2": 2014969.48,
+      "max_surface_area_m2": 3940000.0,
+      "surface_area_pct": 51.14,
+      "volumetric_fill_pct": 22.87
+    },
+    "wd_2885282": {
+      "name": "Sarımsaklı Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Kayseri"
+      ],
+      "current_area_m2": 1683282.79,
+      "max_surface_area_m2": 2440000.0,
+      "surface_area_pct": 68.99,
+      "volumetric_fill_pct": 44.19
+    },
+    "wd_1090594": {
+      "name": "Gelingüllü Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Yozgat"
+      ],
+      "current_area_m2": 16148610.35,
+      "max_surface_area_m2": 23200000.0,
+      "surface_area_pct": 69.61,
+      "volumetric_fill_pct": 45.06
+    },
+    "wd_2885343": {
+      "name": "Yenihayat Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Çorum"
+      ],
+      "current_area_m2": 856106.32,
+      "max_surface_area_m2": 1350000.0,
+      "surface_area_pct": 63.42,
+      "volumetric_fill_pct": 36.71
+    },
+    "wd_2885200": {
+      "name": "Kılavuzlu Barajı ve Hidroelektrik Santrali",
+      "source_type": "dam",
+      "provinces": [
+        "Kahramanmaraş"
+      ],
+      "current_area_m2": 4115318.12,
+      "max_surface_area_m2": 3100000.0,
+      "surface_area_pct": 100.0,
+      "volumetric_fill_pct": 100.0
+    },
+    "wd_2885106": {
+      "name": "Deliçay Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Karaman"
+      ],
+      "current_area_m2": 147287.11,
+      "max_surface_area_m2": 1800000.0,
+      "surface_area_pct": 8.18,
+      "volumetric_fill_pct": 0.41
+    },
+    "wd_6368294": {
+      "name": "Karamanlı Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Burdur"
+      ],
+      "current_area_m2": 1142121.09,
+      "max_surface_area_m2": 1700000.0,
+      "surface_area_pct": 67.18,
+      "volumetric_fill_pct": 41.68
+    },
+    "wd_6454185": {
+      "name": "Kürtün Barajı ve Hidroelektrik Santrali",
+      "source_type": "dam",
+      "provinces": [
+        "Gümüşhane"
+      ],
+      "current_area_m2": 1355418.24,
+      "max_surface_area_m2": 2620000.0,
+      "surface_area_pct": 51.73,
+      "volumetric_fill_pct": 23.46
+    },
+    "wd_7156970": {
+      "name": "Pazaryolu Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Erzurum"
+      ],
+      "current_area_m2": 154248.05,
+      "max_surface_area_m2": 100000.0,
+      "surface_area_pct": 100.0,
+      "volumetric_fill_pct": 100.0
+    },
+    "wd_6414879": {
+      "name": "Kirazlıköprü Barajı ve Hidroelektrik Santrali",
+      "source_type": "dam",
+      "provinces": [
+        "Bartın",
+        "Kastamonu"
+      ],
+      "current_area_m2": 63697879.58,
+      "max_surface_area_m2": 10900000.0,
+      "surface_area_pct": 100.0,
+      "volumetric_fill_pct": 100.0
+    },
+    "wd_6442762": {
+      "name": "Kulaksızlar Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Kastamonu"
+      ],
+      "current_area_m2": 678834.23,
+      "max_surface_area_m2": 2000000.0,
+      "surface_area_pct": 33.94,
+      "volumetric_fill_pct": 9.28
+    },
+    "wd_6379011": {
+      "name": "Kavakdere Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "İzmir"
+      ],
+      "current_area_m2": 672611.13,
+      "max_surface_area_m2": 960000.0,
+      "surface_area_pct": 70.06,
+      "volumetric_fill_pct": 45.72
+    },
+    "wd_7423463": {
+      "name": "Saraydüzü Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Sinop"
+      ],
+      "current_area_m2": 1348258.45,
+      "max_surface_area_m2": 2160000.0,
+      "surface_area_pct": 62.42,
+      "volumetric_fill_pct": 35.46
+    },
+    "wd_6453946": {
+      "name": "Köprübaşı Barajı ve Hidroelektrik Santrali",
+      "source_type": "dam",
+      "provinces": [
+        "Bolu"
+      ],
+      "current_area_m2": 4149111.79,
+      "max_surface_area_m2": 5270000.0,
+      "surface_area_pct": 78.73,
+      "volumetric_fill_pct": 59.09
+    },
+    "wd_6435463": {
+      "name": "Koçhisar Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Çorum"
+      ],
+      "current_area_m2": 5348847.66,
+      "max_surface_area_m2": 12000000.0,
+      "surface_area_pct": 44.57,
+      "volumetric_fill_pct": 16.9
+    },
+    "wd_7075372": {
+      "name": "Obruk Barajı ve Hidroelektrik Santrali",
+      "source_type": "dam",
+      "provinces": [
+        "Çorum"
+      ],
+      "current_area_m2": 12097226.71,
+      "max_surface_area_m2": 50210000.0,
+      "surface_area_pct": 24.09,
+      "volumetric_fill_pct": 4.37
+    },
+    "wd_7881866": {
+      "name": "Umurbey Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Çanakkale"
+      ],
+      "current_area_m2": 1152645.45,
+      "max_surface_area_m2": 1700000.0,
+      "surface_area_pct": 67.8,
+      "volumetric_fill_pct": 42.53
+    },
+    "wd_7905245": {
+      "name": "Uzunçayır Barajı ve Hidroelektrik Santrali",
+      "source_type": "dam",
+      "provinces": [
+        "Tunceli"
+      ],
+      "current_area_m2": 14347484.42,
+      "max_surface_area_m2": 13430000.0,
+      "surface_area_pct": 100.0,
+      "volumetric_fill_pct": 100.0
+    },
+    "wd_7924253": {
+      "name": "Vezirköprü Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Samsun"
+      ],
+      "current_area_m2": 113291.56,
+      "max_surface_area_m2": 2300000.0,
+      "surface_area_pct": 4.93,
+      "volumetric_fill_pct": 0.13
+    },
+    "wd_6453999": {
+      "name": "Köse Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Gümüşhane"
+      ],
+      "current_area_m2": 425065.43,
+      "max_surface_area_m2": 800000.0,
+      "surface_area_pct": 53.13,
+      "volumetric_fill_pct": 24.88
+    },
+    "wd_6367836": {
+      "name": "Karadere Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Kastamonu"
+      ],
+      "current_area_m2": 639536.13,
+      "max_surface_area_m2": 1100000.0,
+      "surface_area_pct": 58.14,
+      "volumetric_fill_pct": 30.33
+    },
+    "wd_6368905": {
+      "name": "Karaçal Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Burdur"
+      ],
+      "current_area_m2": 1013083.37,
+      "max_surface_area_m2": 5400000.0,
+      "surface_area_pct": 18.76,
+      "volumetric_fill_pct": 2.52
+    },
+    "wd_6912013": {
+      "name": "Morgedik Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Van"
+      ],
+      "current_area_m2": 7029783.33,
+      "max_surface_area_m2": 8200000.0,
+      "surface_area_pct": 85.73,
+      "volumetric_fill_pct": 71.27
+    },
+    "wd_6432756": {
+      "name": "Koruluk Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Gümüşhane"
+      ],
+      "current_area_m2": 508345.09,
+      "max_surface_area_m2": 700000.0,
+      "surface_area_pct": 72.62,
+      "volumetric_fill_pct": 49.47
+    },
+    "wd_1089603": {
+      "name": "Akkaya Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Niğde"
+      ],
+      "current_area_m2": 351389.58,
+      "max_surface_area_m2": 1380000.0,
+      "surface_area_pct": 25.46,
+      "volumetric_fill_pct": 4.93
+    },
+    "wd_1089548": {
+      "name": "Almus Barajı ve Hidroelektrik Santrali",
+      "source_type": "dam",
+      "provinces": [
+        "Tokat"
+      ],
+      "current_area_m2": 227471.37,
+      "max_surface_area_m2": 31300000.0,
+      "surface_area_pct": 0.73,
+      "volumetric_fill_pct": 0.0
+    },
+    "wd_1089592": {
+      "name": "Tatlarin Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Nevşehir"
+      ],
+      "current_area_m2": 5888.67,
+      "max_surface_area_m2": 150000.0,
+      "surface_area_pct": 3.93,
+      "volumetric_fill_pct": 0.08
+    },
+    "wd_1089459": {
+      "name": "Bayındır Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Ankara"
+      ],
+      "current_area_m2": 585170.18,
+      "max_surface_area_m2": 710000.0,
+      "surface_area_pct": 82.42,
+      "volumetric_fill_pct": 65.35
+    },
+    "wd_1089629": {
+      "name": "Kızılsu Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Burdur"
+      ],
+      "current_area_m2": 4658.2,
+      "max_surface_area_m2": 170000.0,
+      "surface_area_pct": 2.74,
+      "volumetric_fill_pct": 0.04
+    },
+    "wd_1089575": {
+      "name": "Kayacık Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Gaziantep"
+      ],
+      "current_area_m2": 12877178.47,
+      "max_surface_area_m2": 13100000.0,
+      "surface_area_pct": 98.3,
+      "volumetric_fill_pct": 96.3
+    },
+    "wd_1089498": {
+      "name": "Gölbaşı Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Bursa"
+      ],
+      "current_area_m2": 1383965.88,
+      "max_surface_area_m2": 1740000.0,
+      "surface_area_pct": 79.54,
+      "volumetric_fill_pct": 60.43
+    },
+    "wd_1089569": {
+      "name": "May Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Konya"
+      ],
+      "current_area_m2": 10430.15,
+      "max_surface_area_m2": 7750000.0,
+      "surface_area_pct": 0.13,
+      "volumetric_fill_pct": 0.0
+    },
+    "wd_1089550": {
+      "name": "Altınyazı Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Edirne"
+      ],
+      "current_area_m2": 2341668.55,
+      "max_surface_area_m2": 4250000.0,
+      "surface_area_pct": 55.1,
+      "volumetric_fill_pct": 26.95
+    },
+    "wd_1089626": {
+      "name": "Kartalkaya Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Kahramanmaraş"
+      ],
+      "current_area_m2": 7370411.68,
+      "max_surface_area_m2": 11250000.0,
+      "surface_area_pct": 65.51,
+      "volumetric_fill_pct": 39.44
+    },
+    "wd_1089450": {
+      "name": "Gebere Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Niğde"
+      ],
+      "current_area_m2": 203994.14,
+      "max_surface_area_m2": 260000.0,
+      "surface_area_pct": 78.46,
+      "volumetric_fill_pct": 58.64
+    },
+    "wd_1089615": {
+      "name": "Gümüşler Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Niğde"
+      ],
+      "current_area_m2": 286919.17,
+      "max_surface_area_m2": 470000.0,
+      "surface_area_pct": 61.05,
+      "volumetric_fill_pct": 33.76
+    },
+    "wd_1089508": {
+      "name": "Demirköprü Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Manisa"
+      ],
+      "current_area_m2": 32135156.43,
+      "max_surface_area_m2": 47660000.0,
+      "surface_area_pct": 67.43,
+      "volumetric_fill_pct": 42.02
+    },
+    "wd_1089564": {
+      "name": "Seyitler Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Afyonkarahisar"
+      ],
+      "current_area_m2": 1653911.5,
+      "max_surface_area_m2": 4900000.0,
+      "surface_area_pct": 33.75,
+      "volumetric_fill_pct": 9.17
+    },
+    "wd_1089555": {
+      "name": "Mehmetli Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Osmaniye"
+      ],
+      "current_area_m2": 2384936.83,
+      "max_surface_area_m2": 2750000.0,
+      "surface_area_pct": 86.72,
+      "volumetric_fill_pct": 73.1
+    },
+    "wd_1089587": {
+      "name": "Çamgazi Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Adıyaman"
+      ],
+      "current_area_m2": 2796517.09,
+      "max_surface_area_m2": 5550000.0,
+      "surface_area_pct": 50.39,
+      "volumetric_fill_pct": 22.14
+    },
+    "wd_1089619": {
+      "name": "Sevişler Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Manisa"
+      ],
+      "current_area_m2": 4287704.86,
+      "max_surface_area_m2": 6050000.0,
+      "surface_area_pct": 70.87,
+      "volumetric_fill_pct": 46.88
+    },
+    "wd_1089584": {
+      "name": "Cip Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Elazığ"
+      ],
+      "current_area_m2": 911042.91,
+      "max_surface_area_m2": 1100000.0,
+      "surface_area_pct": 82.82,
+      "volumetric_fill_pct": 66.06
+    },
+    "wd_1089503": {
+      "name": "Kemer Barajı ve Hidroelektrik Santrali",
+      "source_type": "dam",
+      "provinces": [
+        "Aydın"
+      ],
+      "current_area_m2": 6451549.53,
+      "max_surface_area_m2": 14750000.0,
+      "surface_area_pct": 43.74,
+      "volumetric_fill_pct": 16.22
+    },
+    "wd_1089635": {
+      "name": "Çoğun Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Kırşehir"
+      ],
+      "current_area_m2": 1341443.19,
+      "max_surface_area_m2": 2380000.0,
+      "surface_area_pct": 56.36,
+      "volumetric_fill_pct": 28.33
+    },
+    "wd_1089443": {
+      "name": "Adatepe Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Kahramanmaraş"
+      ],
+      "current_area_m2": 11159421.02,
+      "max_surface_area_m2": 18600000.0,
+      "surface_area_pct": 60.0,
+      "volumetric_fill_pct": 32.5
+    },
+    "wd_1089396": {
+      "name": "Hasanlar Barajı ve Hidroelektrik Santrali",
+      "source_type": "dam",
+      "provinces": [
+        "Düzce"
+      ],
+      "current_area_m2": 1497976.0,
+      "max_surface_area_m2": 2407123.52,
+      "surface_area_pct": 62.23,
+      "volumetric_fill_pct": 35.22
+    },
+    "wd_1089596": {
+      "name": "Sarıyar Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Ankara",
+        "Sakarya",
+        "Bolu"
+      ],
+      "current_area_m2": 33976528.22,
+      "max_surface_area_m2": 83830000.0,
+      "surface_area_pct": 40.53,
+      "volumetric_fill_pct": 13.71
+    },
+    "wd_1089406": {
+      "name": "Musaözü Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Eskişehir"
+      ],
+      "current_area_m2": 71643.66,
+      "max_surface_area_m2": 430000.0,
+      "surface_area_pct": 16.66,
+      "volumetric_fill_pct": 1.94
+    },
+    "wd_61076390": {
+      "name": "Koyunbaba Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Çankırı"
+      ],
+      "current_area_m2": 2670602.61,
+      "max_surface_area_m2": 6861551.49,
+      "surface_area_pct": 38.92,
+      "volumetric_fill_pct": 12.54
+    },
+    "wd_2885387": {
+      "name": "Çubuk-2 Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Ankara"
+      ],
+      "current_area_m2": 555879.64,
+      "max_surface_area_m2": 1200000.0,
+      "surface_area_pct": 46.32,
+      "volumetric_fill_pct": 18.4
+    },
+    "wd_30621512": {
+      "name": "Pamukluk Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Mersin"
+      ],
+      "current_area_m2": 3570806.69,
+      "max_surface_area_m2": 3379932.51,
+      "surface_area_pct": 100.0,
+      "volumetric_fill_pct": 100.0
+    },
+    "wd_4700698": {
+      "name": "Akhasan Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Çankırı"
+      ],
+      "current_area_m2": 736839.29,
+      "max_surface_area_m2": 1500000.0,
+      "surface_area_pct": 49.12,
+      "volumetric_fill_pct": 20.93
+    },
+    "wd_2885382": {
+      "name": "Çokal Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Tekirdağ",
+        "Çanakkale"
+      ],
+      "current_area_m2": 5380043.88,
+      "max_surface_area_m2": 10100000.0,
+      "surface_area_pct": 53.27,
+      "volumetric_fill_pct": 25.02
+    },
+    "wd_1090579": {
+      "name": "Yahyasaray Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Yozgat"
+      ],
+      "current_area_m2": 944548.57,
+      "max_surface_area_m2": 1580000.0,
+      "surface_area_pct": 59.78,
+      "volumetric_fill_pct": 32.24
+    },
+    "wd_1090573": {
+      "name": "Demirdöven Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Erzurum"
+      ],
+      "current_area_m2": 887517.88,
+      "max_surface_area_m2": 1450000.0,
+      "surface_area_pct": 61.21,
+      "volumetric_fill_pct": 33.96
+    },
+    "wd_1090567": {
+      "name": "Tercan Barajı ve Hidroelektrik Santrali",
+      "source_type": "dam",
+      "provinces": [
+        "Erzincan"
+      ],
+      "current_area_m2": 6700877.11,
+      "max_surface_area_m2": 8850000.0,
+      "surface_area_pct": 75.72,
+      "volumetric_fill_pct": 54.23
+    },
+    "wd_1090556": {
+      "name": "Çavdarhisar Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Kütahya"
+      ],
+      "current_area_m2": 1234498.54,
+      "max_surface_area_m2": 3920000.0,
+      "surface_area_pct": 31.49,
+      "volumetric_fill_pct": 7.87
+    },
+    "wd_1090533": {
+      "name": "Sazlıdere Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "İstanbul"
+      ],
+      "current_area_m2": 8646442.38,
+      "max_surface_area_m2": 11810000.0,
+      "surface_area_pct": 73.21,
+      "volumetric_fill_pct": 50.36
+    },
+    "wd_6367692": {
+      "name": "Karacasu Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Aydın"
+      ],
+      "current_area_m2": 854803.56,
+      "max_surface_area_m2": 1070000.0,
+      "surface_area_pct": 79.89,
+      "volumetric_fill_pct": 61.02
+    },
+    "wd_97229781": {
+      "name": "Afşar Barajı (Konya)",
+      "source_type": "dam",
+      "provinces": [
+        "Konya"
+      ],
+      "current_area_m2": 5691241.74,
+      "max_surface_area_m2": 8730000.0,
+      "surface_area_pct": 65.19,
+      "volumetric_fill_pct": 39.01
+    },
+    "wd_3707521": {
+      "name": "Nilüfer Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Bursa"
+      ],
+      "current_area_m2": 1177917.35,
+      "max_surface_area_m2": 1470000.0,
+      "surface_area_pct": 80.13,
+      "volumetric_fill_pct": 61.43
+    },
+    "wd_1090536": {
+      "name": "İvriz Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Konya"
+      ],
+      "current_area_m2": 2834630.86,
+      "max_surface_area_m2": 4800000.0,
+      "surface_area_pct": 59.05,
+      "volumetric_fill_pct": 31.39
+    },
+    "wd_97232518": {
+      "name": "Turnaçayırı Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Erzincan"
+      ],
+      "current_area_m2": 2249927.4,
+      "max_surface_area_m2": 2240995.7,
+      "surface_area_pct": 100.0,
+      "volumetric_fill_pct": 100.0
+    },
+    "wd_1748415": {
+      "name": "Onaç-2 Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Burdur"
+      ],
+      "current_area_m2": 2039108.2,
+      "max_surface_area_m2": 3560000.0,
+      "surface_area_pct": 57.28,
+      "volumetric_fill_pct": 29.35
+    },
+    "wd_4883041": {
+      "name": "Belkaya Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Burdur"
+      ],
+      "current_area_m2": 387705.32,
+      "max_surface_area_m2": 5200000.0,
+      "surface_area_pct": 7.46,
+      "volumetric_fill_pct": 0.33
+    },
+    "wd_4831853": {
+      "name": "Ayvacık Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Çanakkale"
+      ],
+      "current_area_m2": 1684596.31,
+      "max_surface_area_m2": 3420000.0,
+      "surface_area_pct": 49.26,
+      "volumetric_fill_pct": 21.06
+    },
+    "wd_5303718": {
+      "name": "Doyduk Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Nevşehir"
+      ],
+      "current_area_m2": 1112432.19,
+      "max_surface_area_m2": 3700000.0,
+      "surface_area_pct": 30.07,
+      "volumetric_fill_pct": 7.11
+    },
+    "wd_1548059": {
+      "name": "Menzelet Barajı ve Hidroelektrik Santrali",
+      "source_type": "dam",
+      "provinces": [
+        "Kahramanmaraş"
+      ],
+      "current_area_m2": 50804362.79,
+      "max_surface_area_m2": 42000000.0,
+      "surface_area_pct": 100.0,
+      "volumetric_fill_pct": 100.0
+    },
+    "wd_1518263": {
+      "name": "Seyhan Barajı ve Hidroelektrik Santrali",
+      "source_type": "dam",
+      "provinces": [
+        "Adana"
+      ],
+      "current_area_m2": 44030512.35,
+      "max_surface_area_m2": 67820000.0,
+      "surface_area_pct": 64.92,
+      "volumetric_fill_pct": 38.66
+    },
+    "wd_4874765": {
+      "name": "Bayramdere Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Çanakkale"
+      ],
+      "current_area_m2": 0.0,
+      "max_surface_area_m2": 940000.0,
+      "surface_area_pct": 0.0,
+      "volumetric_fill_pct": 0.0
+    },
+    "wd_5626584": {
+      "name": "Güneşli Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Manisa"
+      ],
+      "current_area_m2": 395235.62,
+      "max_surface_area_m2": 517945.86,
+      "surface_area_pct": 76.31,
+      "volumetric_fill_pct": 55.16
+    },
+    "wd_5626664": {
+      "name": "Gördes Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Manisa",
+        "İzmir"
+      ],
+      "current_area_m2": 6118901.92,
+      "max_surface_area_m2": 14050000.0,
+      "surface_area_pct": 43.55,
+      "volumetric_fill_pct": 16.06
+    },
+    "wd_1737672": {
+      "name": "Keban Barajı ve Hidroelektrik Santrali",
+      "source_type": "dam",
+      "provinces": [
+        "Elazığ",
+        "Tunceli",
+        "Erzincan",
+        "Malatya"
+      ],
+      "current_area_m2": 523176086.43,
+      "max_surface_area_m2": 675000000.0,
+      "surface_area_pct": 77.51,
+      "volumetric_fill_pct": 57.09
+    },
+    "wd_4837538": {
+      "name": "Babasultan Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Bursa"
+      ],
+      "current_area_m2": 457537.5,
+      "max_surface_area_m2": 1280000.0,
+      "surface_area_pct": 35.75,
+      "volumetric_fill_pct": 10.4
+    },
+    "wd_1927376": {
+      "name": "Karkamış Barajı ve Hidroelektrik Santrali",
+      "source_type": "dam",
+      "provinces": [
+        "Gaziantep",
+        "Şanlıurfa"
+      ],
+      "current_area_m2": 16993250.24,
+      "max_surface_area_m2": 28400000.0,
+      "surface_area_pct": 59.84,
+      "volumetric_fill_pct": 32.31
+    },
+    "wd_4900451": {
+      "name": "Beşkarış Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Kütahya"
+      ],
+      "current_area_m2": 1335403.12,
+      "max_surface_area_m2": 5120000.0,
+      "surface_area_pct": 26.08,
+      "volumetric_fill_pct": 5.2
+    },
+    "wd_4875359": {
+      "name": "Başköy Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Erzurum"
+      ],
+      "current_area_m2": 4083341.31,
+      "max_surface_area_m2": 4900000.0,
+      "surface_area_pct": 83.33,
+      "volumetric_fill_pct": 66.96
+    },
+    "wd_4875057": {
+      "name": "Bayır Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Muğla"
+      ],
+      "current_area_m2": 329336.88,
+      "max_surface_area_m2": 450000.0,
+      "surface_area_pct": 73.19,
+      "volumetric_fill_pct": 50.32
+    },
+    "wd_5626820": {
+      "name": "Gülbahar Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Bingöl"
+      ],
+      "current_area_m2": 600453.37,
+      "max_surface_area_m2": 1320000.0,
+      "surface_area_pct": 45.49,
+      "volumetric_fill_pct": 17.68
+    },
+    "wd_5385756": {
+      "name": "Erfelek Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Sinop"
+      ],
+      "current_area_m2": 740203.86,
+      "max_surface_area_m2": 1000000.0,
+      "surface_area_pct": 74.02,
+      "volumetric_fill_pct": 51.59
+    },
+    "wd_5262599": {
+      "name": "Derinöz Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Amasya"
+      ],
+      "current_area_m2": 548816.75,
+      "max_surface_area_m2": 880000.0,
+      "surface_area_pct": 62.37,
+      "volumetric_fill_pct": 35.39
+    },
+    "wd_4899840": {
+      "name": "Beydağ Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "İzmir"
+      ],
+      "current_area_m2": 4121993.41,
+      "max_surface_area_m2": 13000000.0,
+      "surface_area_pct": 31.71,
+      "volumetric_fill_pct": 7.99
+    },
+    "wd_4831856": {
+      "name": "Ayvalı Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Kahramanmaraş"
+      ],
+      "current_area_m2": 1450164.33,
+      "max_surface_area_m2": 760000.0,
+      "surface_area_pct": 100.0,
+      "volumetric_fill_pct": 100.0
+    },
+    "wd_5120420": {
+      "name": "Cindere Barajı ve Hidroelektrik Santrali",
+      "source_type": "dam",
+      "provinces": [
+        "Denizli"
+      ],
+      "current_area_m2": 852391.85,
+      "max_surface_area_m2": 2800000.0,
+      "surface_area_pct": 30.44,
+      "volumetric_fill_pct": 7.31
+    },
+    "wd_4952946": {
+      "name": "Boğazköy Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Bursa"
+      ],
+      "current_area_m2": 3920792.54,
+      "max_surface_area_m2": 6500000.0,
+      "surface_area_pct": 60.32,
+      "volumetric_fill_pct": 32.89
+    },
+    "wd_5255424": {
+      "name": "Demirözü Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Bayburt"
+      ],
+      "current_area_m2": 4523889.11,
+      "max_surface_area_m2": 5680000.0,
+      "surface_area_pct": 79.65,
+      "volumetric_fill_pct": 60.61
+    },
+    "wd_4843099": {
+      "name": "Bahçelik Barajı ve Hidroelektrik Santrali",
+      "source_type": "dam",
+      "provinces": [
+        "Kayseri"
+      ],
+      "current_area_m2": 6546268.71,
+      "max_surface_area_m2": 12130000.0,
+      "surface_area_pct": 53.97,
+      "volumetric_fill_pct": 25.74
+    },
+    "wd_1588084": {
+      "name": "Hasan Uğurlu Barajı ve Hidroelektrik Santrali",
+      "source_type": "dam",
+      "provinces": [
+        "Samsun"
+      ],
+      "current_area_m2": 11832602.78,
+      "max_surface_area_m2": 22660000.0,
+      "surface_area_pct": 52.22,
+      "volumetric_fill_pct": 23.94
+    },
+    "wd_4734770": {
+      "name": "Alpaslan-1 Barajı ve Hidroelektrik Santrali",
+      "source_type": "dam",
+      "provinces": [
+        "Muş"
+      ],
+      "current_area_m2": 102698353.52,
+      "max_surface_area_m2": 114800000.0,
+      "surface_area_pct": 89.46,
+      "volumetric_fill_pct": 78.26
+    },
+    "wd_4831243": {
+      "name": "Ayhanlar Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Nevşehir"
+      ],
+      "current_area_m2": 849824.01,
+      "max_surface_area_m2": 2020000.0,
+      "surface_area_pct": 42.07,
+      "volumetric_fill_pct": 14.89
+    },
+    "wd_1091478": {
+      "name": "Kuzgun Barajı ve Hidroelektrik Santrali",
+      "source_type": "dam",
+      "provinces": [
+        "Erzurum"
+      ],
+      "current_area_m2": 4953067.38,
+      "max_surface_area_m2": 11200000.0,
+      "surface_area_pct": 44.22,
+      "volumetric_fill_pct": 16.61
+    },
+    "wd_4812883": {
+      "name": "Atasu Barajı ve Hidroelektrik Santrali",
+      "source_type": "dam",
+      "provinces": [
+        "Trabzon"
+      ],
+      "current_area_m2": 648773.88,
+      "max_surface_area_m2": 830000.0,
+      "surface_area_pct": 78.17,
+      "volumetric_fill_pct": 58.16
+    },
+    "wd_1091467": {
+      "name": "Gökçeada Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Çanakkale"
+      ],
+      "current_area_m2": 935684.97,
+      "max_surface_area_m2": 1350000.0,
+      "surface_area_pct": 69.31,
+      "volumetric_fill_pct": 44.64
+    },
+    "wd_1090627": {
+      "name": "Bademli Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Burdur"
+      ],
+      "current_area_m2": 199182.13,
+      "max_surface_area_m2": 800000.0,
+      "surface_area_pct": 24.9,
+      "volumetric_fill_pct": 4.69
+    },
+    "wd_1091516": {
+      "name": "Murtaza Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Niğde"
+      ],
+      "current_area_m2": 114026.39,
+      "max_surface_area_m2": 810000.0,
+      "surface_area_pct": 14.08,
+      "volumetric_fill_pct": 1.34
+    },
+    "wd_1091549": {
+      "name": "Polat Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Malatya"
+      ],
+      "current_area_m2": 383086.45,
+      "max_surface_area_m2": 2990000.0,
+      "surface_area_pct": 12.81,
+      "volumetric_fill_pct": 1.09
+    },
+    "wd_1091540": {
+      "name": "Dumluca Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Mardin"
+      ],
+      "current_area_m2": 1045014.42,
+      "max_surface_area_m2": 2230000.0,
+      "surface_area_pct": 46.86,
+      "volumetric_fill_pct": 18.87
+    },
+    "wd_1091457": {
+      "name": "Karacaören-1 Barajı ve Hidroelektrik Santrali",
+      "source_type": "dam",
+      "provinces": [
+        "Burdur",
+        "Isparta"
+      ],
+      "current_area_m2": 5009026.79,
+      "max_surface_area_m2": 45500000.0,
+      "surface_area_pct": 11.01,
+      "volumetric_fill_pct": 0.78
+    },
+    "wd_1090621": {
+      "name": "Güzelhisar Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "İzmir"
+      ],
+      "current_area_m2": 4544528.69,
+      "max_surface_area_m2": 5800000.0,
+      "surface_area_pct": 78.35,
+      "volumetric_fill_pct": 58.47
+    },
+    "wd_1091489": {
+      "name": "Göksu Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Diyarbakır"
+      ],
+      "current_area_m2": 2349326.29,
+      "max_surface_area_m2": 3900000.0,
+      "surface_area_pct": 60.24,
+      "volumetric_fill_pct": 32.79
+    },
+    "wd_1091559": {
+      "name": "Yedikır Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Amasya"
+      ],
+      "current_area_m2": 3979198.66,
+      "max_surface_area_m2": 5930000.0,
+      "surface_area_pct": 67.1,
+      "volumetric_fill_pct": 41.57
+    },
+    "wd_1090672": {
+      "name": "Boztepe Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Tokat"
+      ],
+      "current_area_m2": 1105331.62,
+      "max_surface_area_m2": 1870000.0,
+      "surface_area_pct": 59.11,
+      "volumetric_fill_pct": 31.45
+    },
+    "wd_1091496": {
+      "name": "Çatören Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Eskişehir"
+      ],
+      "current_area_m2": 3002385.28,
+      "max_surface_area_m2": 4040000.0,
+      "surface_area_pct": 74.32,
+      "volumetric_fill_pct": 52.05
+    },
+    "wd_4735657": {
+      "name": "Alpu Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Tokat"
+      ],
+      "current_area_m2": 744349.0,
+      "max_surface_area_m2": 1100000.0,
+      "surface_area_pct": 67.67,
+      "volumetric_fill_pct": 42.35
+    },
+    "wd_1090638": {
+      "name": "Gezende Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Mersin"
+      ],
+      "current_area_m2": 2562467.32,
+      "max_surface_area_m2": 3970000.0,
+      "surface_area_pct": 64.55,
+      "volumetric_fill_pct": 38.17
+    },
+    "wd_15198860": {
+      "name": "Beyyurdu Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Hakkâri"
+      ],
+      "current_area_m2": 206705.68,
+      "max_surface_area_m2": 345301.9,
+      "surface_area_pct": 59.86,
+      "volumetric_fill_pct": 32.34
+    },
+    "wd_15234767": {
+      "name": "Kavşaktepe Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Şırnak"
+      ],
+      "current_area_m2": 415448.49,
+      "max_surface_area_m2": 675775.49,
+      "surface_area_pct": 61.48,
+      "volumetric_fill_pct": 34.29
+    },
+    "wd_2885067": {
+      "name": "Boztepe Barajı (Edirne)",
+      "source_type": "dam",
+      "provinces": [
+        "Edirne"
+      ],
+      "current_area_m2": 79365.23,
+      "max_surface_area_m2": 129772.59,
+      "surface_area_pct": 61.16,
+      "volumetric_fill_pct": 33.9
+    },
+    "wd_16902298": {
+      "name": "Uludere Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Şırnak"
+      ],
+      "current_area_m2": 621469.68,
+      "max_surface_area_m2": 894567.86,
+      "surface_area_pct": 69.47,
+      "volumetric_fill_pct": 44.87
+    },
+    "wd_15192693": {
+      "name": "Aslandağ Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Hakkâri"
+      ],
+      "current_area_m2": 429282.24,
+      "max_surface_area_m2": 528101.41,
+      "surface_area_pct": 81.29,
+      "volumetric_fill_pct": 63.4
+    },
+    "wd_15196313": {
+      "name": "Ballı Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Şırnak"
+      ],
+      "current_area_m2": 488074.02,
+      "max_surface_area_m2": 894567.86,
+      "surface_area_pct": 54.56,
+      "volumetric_fill_pct": 26.37
+    },
+    "wd_2885160": {
+      "name": "Kalecik Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Elazığ"
+      ],
+      "current_area_m2": 1063783.3,
+      "max_surface_area_m2": 1360000.0,
+      "surface_area_pct": 78.22,
+      "volumetric_fill_pct": 58.25
+    },
+    "wd_15260342": {
+      "name": "Musatepe Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Şırnak"
+      ],
+      "current_area_m2": 640270.88,
+      "max_surface_area_m2": 675775.49,
+      "surface_area_pct": 94.75,
+      "volumetric_fill_pct": 88.8
+    },
+    "wd_16829144": {
+      "name": "Çetintepe Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Şırnak"
+      ],
+      "current_area_m2": 91669.92,
+      "max_surface_area_m2": 97971.06,
+      "surface_area_pct": 93.57,
+      "volumetric_fill_pct": 86.39
+    },
+    "wd_15277798": {
+      "name": "Silopi Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Şırnak"
+      ],
+      "current_area_m2": 578186.47,
+      "max_surface_area_m2": 637978.67,
+      "surface_area_pct": 90.63,
+      "volumetric_fill_pct": 80.53
+    },
+    "wd_6049583": {
+      "name": "Yedigöze Barajı ve Hidroelektrik Santrali",
+      "source_type": "dam",
+      "provinces": [
+        "Adana"
+      ],
+      "current_area_m2": 12537411.95,
+      "max_surface_area_m2": 14642848.76,
+      "surface_area_pct": 85.62,
+      "volumetric_fill_pct": 71.07
+    },
+    "wd_16900232": {
+      "name": "Şırnak Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Şırnak"
+      ],
+      "current_area_m2": 550873.64,
+      "max_surface_area_m2": 689091.5,
+      "surface_area_pct": 79.94,
+      "volumetric_fill_pct": 61.11
+    },
+    "wd_8077837": {
+      "name": "Çınarcık Barajı ve Hidroelektrik Santrali",
+      "source_type": "dam",
+      "provinces": [
+        "Bursa"
+      ],
+      "current_area_m2": 5057454.97,
+      "max_surface_area_m2": 10140000.0,
+      "surface_area_pct": 49.88,
+      "volumetric_fill_pct": 21.65
+    },
+    "wd_8080080": {
+      "name": "İkizdere Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Aydın"
+      ],
+      "current_area_m2": 2444072.39,
+      "max_surface_area_m2": 5470000.0,
+      "surface_area_pct": 44.68,
+      "volumetric_fill_pct": 16.99
+    },
+    "wd_1090288": {
+      "name": "Yenice Barajı ve Hidroelektrik Santrali",
+      "source_type": "dam",
+      "provinces": [
+        "Ankara",
+        "Eskişehir",
+        "Sakarya"
+      ],
+      "current_area_m2": 1671471.83,
+      "max_surface_area_m2": 3640000.0,
+      "surface_area_pct": 45.92,
+      "volumetric_fill_pct": 18.05
+    },
+    "wd_8080038": {
+      "name": "İbrala Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Karaman"
+      ],
+      "current_area_m2": 2746586.98,
+      "max_surface_area_m2": 6700000.0,
+      "surface_area_pct": 40.99,
+      "volumetric_fill_pct": 14.06
+    },
+    "wd_1090254": {
+      "name": "Söğüt Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Kütahya"
+      ],
+      "current_area_m2": 97910.16,
+      "max_surface_area_m2": 150000.0,
+      "surface_area_pct": 65.27,
+      "volumetric_fill_pct": 39.12
+    },
+    "wd_5684054": {
+      "name": "Havran Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Balıkesir"
+      ],
+      "current_area_m2": 1807658.57,
+      "max_surface_area_m2": 3150000.0,
+      "surface_area_pct": 57.39,
+      "volumetric_fill_pct": 29.47
+    },
+    "wd_6034755": {
+      "name": "Topçam Barajı (Ordu)",
+      "source_type": "dam",
+      "provinces": [
+        "Ordu"
+      ],
+      "current_area_m2": 1476302.95,
+      "max_surface_area_m2": 3090000.0,
+      "surface_area_pct": 47.78,
+      "volumetric_fill_pct": 19.69
+    },
+    "wd_12811715": {
+      "name": "Sarıoğlan Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Kayseri"
+      ],
+      "current_area_m2": 2197638.34,
+      "max_surface_area_m2": 2650000.0,
+      "surface_area_pct": 82.93,
+      "volumetric_fill_pct": 66.25
+    },
+    "wd_1090294": {
+      "name": "Bakacak Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Çanakkale"
+      ],
+      "current_area_m2": 3395839.97,
+      "max_surface_area_m2": 7740000.0,
+      "surface_area_pct": 43.87,
+      "volumetric_fill_pct": 16.33
+    },
+    "wd_1090286": {
+      "name": "Mumcular Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Muğla"
+      ],
+      "current_area_m2": 967384.53,
+      "max_surface_area_m2": 1420000.0,
+      "surface_area_pct": 68.13,
+      "volumetric_fill_pct": 42.98
+    },
+    "wd_1089637": {
+      "name": "Atikhisar Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Çanakkale"
+      ],
+      "current_area_m2": 2312100.77,
+      "max_surface_area_m2": 3300000.0,
+      "surface_area_pct": 70.06,
+      "volumetric_fill_pct": 45.72
+    },
+    "wd_8052313": {
+      "name": "Yenidere Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Denizli"
+      ],
+      "current_area_m2": 1382162.48,
+      "max_surface_area_m2": 6500000.0,
+      "surface_area_pct": 21.26,
+      "volumetric_fill_pct": 3.32
+    },
+    "wd_12812106": {
+      "name": "Taşoluk Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Çanakkale"
+      ],
+      "current_area_m2": 811882.51,
+      "max_surface_area_m2": 3100000.0,
+      "surface_area_pct": 26.19,
+      "volumetric_fill_pct": 5.25
+    },
+    "wd_5646525": {
+      "name": "Hamzadere Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Edirne"
+      ],
+      "current_area_m2": 12885522.58,
+      "max_surface_area_m2": 13800000.0,
+      "surface_area_pct": 93.37,
+      "volumetric_fill_pct": 86.0
+    },
+    "wd_1090270": {
+      "name": "Çatalan Barajı ve Hidroelektrik Santrali",
+      "source_type": "dam",
+      "provinces": [
+        "Adana"
+      ],
+      "current_area_m2": 104411071.0,
+      "max_surface_area_m2": 81860000.0,
+      "surface_area_pct": 100.0,
+      "volumetric_fill_pct": 100.0
+    },
+    "wd_8077464": {
+      "name": "Çaltıkoru Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "İzmir"
+      ],
+      "current_area_m2": 3122691.28,
+      "max_surface_area_m2": 1900000.0,
+      "surface_area_pct": 100.0,
+      "volumetric_fill_pct": 100.0
+    },
+    "wd_1090262": {
+      "name": "Koçköprü Barajı ve Hidroelektrik Santrali",
+      "source_type": "dam",
+      "provinces": [
+        "Van"
+      ],
+      "current_area_m2": 4542946.0,
+      "max_surface_area_m2": 5920000.0,
+      "surface_area_pct": 76.74,
+      "volumetric_fill_pct": 55.85
+    },
+    "wd_1090275": {
+      "name": "Asartepe Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Ankara"
+      ],
+      "current_area_m2": 1126738.31,
+      "max_surface_area_m2": 1770000.0,
+      "surface_area_pct": 63.66,
+      "volumetric_fill_pct": 37.02
+    },
+    "wd_1090293": {
+      "name": "Kaymaz Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Eskişehir"
+      ],
+      "current_area_m2": 54052.73,
+      "max_surface_area_m2": 200000.0,
+      "surface_area_pct": 27.03,
+      "volumetric_fill_pct": 5.62
+    },
+    "wd_1089638": {
+      "name": "Medik Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Malatya"
+      ],
+      "current_area_m2": 309157.58,
+      "max_surface_area_m2": 1620000.0,
+      "surface_area_pct": 19.08,
+      "volumetric_fill_pct": 2.61
+    },
+    "wd_1089645": {
+      "name": "Enne Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Kütahya"
+      ],
+      "current_area_m2": 435692.07,
+      "max_surface_area_m2": 940000.0,
+      "surface_area_pct": 46.35,
+      "volumetric_fill_pct": 18.42
+    },
+    "wd_1090269": {
+      "name": "Gökpınar Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Denizli"
+      ],
+      "current_area_m2": 733867.71,
+      "max_surface_area_m2": 1980000.0,
+      "surface_area_pct": 37.06,
+      "volumetric_fill_pct": 11.26
+    },
+    "wd_12812611": {
+      "name": "Yeşilburç Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Niğde"
+      ],
+      "current_area_m2": 111796.88,
+      "max_surface_area_m2": 250000.0,
+      "surface_area_pct": 44.72,
+      "volumetric_fill_pct": 17.02
+    },
+    "wd_1089647": {
+      "name": "Porsuk Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Eskişehir"
+      ],
+      "current_area_m2": 12634714.6,
+      "max_surface_area_m2": 23400000.0,
+      "surface_area_pct": 53.99,
+      "volumetric_fill_pct": 25.77
+    },
+    "wd_5680957": {
+      "name": "Hatap Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Çorum"
+      ],
+      "current_area_m2": 705040.14,
+      "max_surface_area_m2": 1020000.0,
+      "surface_area_pct": 69.12,
+      "volumetric_fill_pct": 44.38
+    },
+    "wd_8062008": {
+      "name": "Yusufeli Barajı ve Hidroelektrik Santrali",
+      "source_type": "dam",
+      "provinces": [
+        "Artvin"
+      ],
+      "current_area_m2": 18149247.5,
+      "max_surface_area_m2": 24342221.16,
+      "surface_area_pct": 74.56,
+      "volumetric_fill_pct": 52.42
+    },
+    "wd_1089643": {
+      "name": "Devegeçidi Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Diyarbakır"
+      ],
+      "current_area_m2": 20840173.13,
+      "max_surface_area_m2": 32140000.0,
+      "surface_area_pct": 64.84,
+      "volumetric_fill_pct": 38.56
+    },
+    "wd_1090281": {
+      "name": "Kozan Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Adana"
+      ],
+      "current_area_m2": 4672618.95,
+      "max_surface_area_m2": 6420000.0,
+      "surface_area_pct": 72.78,
+      "volumetric_fill_pct": 49.71
+    },
+    "wd_1090278": {
+      "name": "Çayboğazı Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Antalya"
+      ],
+      "current_area_m2": 941741.18,
+      "max_surface_area_m2": 2250000.0,
+      "surface_area_pct": 41.86,
+      "volumetric_fill_pct": 14.72
+    },
+    "wd_5627192": {
+      "name": "Güzelce Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Tokat"
+      ],
+      "current_area_m2": 1627269.54,
+      "max_surface_area_m2": 1990000.0,
+      "surface_area_pct": 81.77,
+      "volumetric_fill_pct": 64.23
+    },
+    "wd_1090263": {
+      "name": "Ömerli Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "İstanbul"
+      ],
+      "current_area_m2": 11683081.6,
+      "max_surface_area_m2": 23100000.0,
+      "surface_area_pct": 50.58,
+      "volumetric_fill_pct": 22.32
+    },
+    "wd_8080114": {
+      "name": "İmranlı Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Sivas"
+      ],
+      "current_area_m2": 2988270.26,
+      "max_surface_area_m2": 6500000.0,
+      "surface_area_pct": 45.97,
+      "volumetric_fill_pct": 18.09
+    },
+    "wd_32827667": {
+      "name": "Bağbaşı Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Konya"
+      ],
+      "current_area_m2": 2343420.57,
+      "max_surface_area_m2": 3543450.99,
+      "surface_area_pct": 66.13,
+      "volumetric_fill_pct": 40.27
+    },
+    "wd_8054909": {
+      "name": "Yoncalı Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Malatya"
+      ],
+      "current_area_m2": 0.0,
+      "max_surface_area_m2": 450000.0,
+      "surface_area_pct": 0.0,
+      "volumetric_fill_pct": 0.0
+    },
+    "wd_32837224": {
+      "name": "Doğanhisar Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Konya"
+      ],
+      "current_area_m2": 150732.42,
+      "max_surface_area_m2": 170985.84,
+      "surface_area_pct": 88.15,
+      "volumetric_fill_pct": 75.78
+    },
+    "wd_34852855": {
+      "name": "Kadıköy Barajı (Karabük)",
+      "source_type": "dam",
+      "provinces": [
+        "Karabük"
+      ],
+      "current_area_m2": 312069.95,
+      "max_surface_area_m2": 6200000.0,
+      "surface_area_pct": 5.03,
+      "volumetric_fill_pct": 0.14
+    },
+    "wd_34862706": {
+      "name": "Kuruçay Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Kütahya"
+      ],
+      "current_area_m2": 125771.48,
+      "max_surface_area_m2": 146333.63,
+      "surface_area_pct": 85.95,
+      "volumetric_fill_pct": 71.67
+    },
+    "wd_34957017": {
+      "name": "Tavas Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Denizli"
+      ],
+      "current_area_m2": 168310.55,
+      "max_surface_area_m2": 86730.77,
+      "surface_area_pct": 100.0,
+      "volumetric_fill_pct": 100.0
+    },
+    "wd_34966988": {
+      "name": "Çamköy Barajı (Manisa)",
+      "source_type": "dam",
+      "provinces": [
+        "Manisa"
+      ],
+      "current_area_m2": 13121.91,
+      "max_surface_area_m2": 477945.18,
+      "surface_area_pct": 2.75,
+      "volumetric_fill_pct": 0.04
+    },
+    "wd_34932434": {
+      "name": "Sorgun Barajı (Ankara)",
+      "source_type": "dam",
+      "provinces": [
+        "Ankara"
+      ],
+      "current_area_m2": 233479.14,
+      "max_surface_area_m2": 1220000.0,
+      "surface_area_pct": 19.14,
+      "volumetric_fill_pct": 2.63
+    },
+    "wd_34861529": {
+      "name": "Kozağacı Barajı (Antalya)",
+      "source_type": "dam",
+      "provinces": [
+        "Antalya"
+      ],
+      "current_area_m2": 413876.95,
+      "max_surface_area_m2": 160000.0,
+      "surface_area_pct": 100.0,
+      "volumetric_fill_pct": 100.0
+    },
+    "wd_32825088": {
+      "name": "Akalan Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Bursa"
+      ],
+      "current_area_m2": 13007.81,
+      "max_surface_area_m2": 33026.34,
+      "surface_area_pct": 39.39,
+      "volumetric_fill_pct": 12.88
+    },
+    "wd_3675845": {
+      "name": "Balık Gölü",
+      "source_type": "lake",
+      "provinces": [
+        "Iğdır"
+      ],
+      "current_area_m2": 32881739.5,
+      "max_surface_area_m2": 34000000.0,
+      "surface_area_pct": 96.71,
+      "volumetric_fill_pct": 94.16
+    },
+    "wd_20514762": {
+      "name": "Abbasgöl",
+      "source_type": "lake",
+      "provinces": [
+        "Iğdır"
+      ],
+      "current_area_m2": 199160.16,
+      "max_surface_area_m2": 223587.46,
+      "surface_area_pct": 89.07,
+      "volumetric_fill_pct": 81.2
+    },
+    "wd_421825": {
+      "name": "Aktaş Gölü",
+      "source_type": "lake",
+      "provinces": [
+        "Ardahan"
+      ],
+      "current_area_m2": 25052724.43,
+      "max_surface_area_m2": 26300000.0,
+      "surface_area_pct": 95.26,
+      "volumetric_fill_pct": 91.63
+    },
+    "wd_126307": {
+      "name": "Van Gölü",
+      "source_type": "lake",
+      "provinces": [
+        "Bitlis",
+        "Van"
+      ],
+      "current_area_m2": 3062162272.14,
+      "max_surface_area_m2": 3755000000.0,
+      "surface_area_pct": 81.55,
+      "volumetric_fill_pct": 69.27
+    },
+    "wd_2988251": {
+      "name": "Nemrut Gölü",
+      "source_type": "lake",
+      "provinces": [
+        "Bitlis"
+      ],
+      "current_area_m2": 11797116.06,
+      "max_surface_area_m2": 12360000.0,
+      "surface_area_pct": 95.45,
+      "volumetric_fill_pct": 91.95
+    },
+    "wd_2478029": {
+      "name": "Nazik Gölü",
+      "source_type": "lake",
+      "provinces": [
+        "Bitlis"
+      ],
+      "current_area_m2": 44242894.01,
+      "max_surface_area_m2": 46314702.39,
+      "surface_area_pct": 95.53,
+      "volumetric_fill_pct": 92.09
+    },
+    "wd_21695302": {
+      "name": "Aygır Gölü",
+      "source_type": "lake",
+      "provinces": [
+        "Bitlis"
+      ],
+      "current_area_m2": 1343741.7,
+      "max_surface_area_m2": 1412237.46,
+      "surface_area_pct": 95.15,
+      "volumetric_fill_pct": 91.44
+    },
+    "wd_35717973": {
+      "name": "Kaz Gölü",
+      "source_type": "lake",
+      "provinces": [
+        "Bitlis"
+      ],
+      "current_area_m2": 789014.37,
+      "max_surface_area_m2": 981037.64,
+      "surface_area_pct": 80.43,
+      "volumetric_fill_pct": 67.56
+    },
+    "wd_97217841": {
+      "name": "Batmış Gölü",
+      "source_type": "lake",
+      "provinces": [
+        "Bitlis"
+      ],
+      "current_area_m2": 266869.13,
+      "max_surface_area_m2": 11803217.48,
+      "surface_area_pct": 2.26,
+      "volumetric_fill_pct": 0.11
+    },
+    "wd_20470564": {
+      "name": "Arin Gölü",
+      "source_type": "lake",
+      "provinces": [
+        "Bitlis"
+      ],
+      "current_area_m2": 80901272.4,
+      "max_surface_area_m2": 13731899.68,
+      "surface_area_pct": 100.0,
+      "volumetric_fill_pct": 100.0
+    },
+    "wd_868012": {
+      "name": "Sapanca Gölü",
+      "source_type": "lake",
+      "provinces": [
+        "Kocaeli",
+        "Sakarya"
+      ],
+      "current_area_m2": 41898526.06,
+      "max_surface_area_m2": 46900000.0,
+      "surface_area_pct": 89.34,
+      "volumetric_fill_pct": 81.63
+    },
+    "wd_4727729": {
+      "name": "Alkumru Barajı ve Hidroelektrik Santrali",
+      "source_type": "dam",
+      "provinces": [
+        "Siirt"
+      ],
+      "current_area_m2": 6148027.85,
+      "max_surface_area_m2": 9769507.46,
+      "surface_area_pct": 62.93,
+      "volumetric_fill_pct": 36.1
+    },
+    "wd_34857411": {
+      "name": "Kılıçkaya Barajı Gölü",
+      "source_type": "dam",
+      "provinces": [
+        "Sivas"
+      ],
+      "current_area_m2": 35833747.72,
+      "max_surface_area_m2": 50812702.1,
+      "surface_area_pct": 70.52,
+      "volumetric_fill_pct": 46.38
+    },
+    "osm_255545134": {
+      "name": "Kıranköy Göleti",
+      "source_type": "dam",
+      "provinces": [
+        "Manisa"
+      ],
+      "current_area_m2": 440010.52,
+      "max_surface_area_m2": 545817.66,
+      "surface_area_pct": 80.61,
+      "volumetric_fill_pct": 62.25
+    },
+    "osm_10866377": {
+      "name": "Arkun Baraj Gölü",
+      "source_type": "dam",
+      "provinces": [
+        "Artvin",
+        "Erzurum"
+      ],
+      "current_area_m2": 3812751.19,
+      "max_surface_area_m2": 3356660.08,
+      "surface_area_pct": 100.0,
+      "volumetric_fill_pct": 100.0
+    },
+    "wd_1334148": {
+      "name": "Eğirdir Gölü",
+      "source_type": "lake",
+      "provinces": [
+        "Isparta"
+      ],
+      "current_area_m2": 381850444.34,
+      "max_surface_area_m2": 517000000.0,
+      "surface_area_pct": 73.86,
+      "volumetric_fill_pct": 57.96
+    },
+    "tr_45212798": {
+      "name": "Terkos Gölü",
+      "source_type": "lake",
+      "provinces": [
+        "İstanbul"
+      ],
+      "current_area_m2": 138504563.11,
+      "max_surface_area_m2": 32211026.47,
+      "surface_area_pct": 100.0,
+      "volumetric_fill_pct": 100.0
+    },
+    "wd_1091506": {
+      "name": "Darlık Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "İstanbul"
+      ],
+      "current_area_m2": 3208619.53,
+      "max_surface_area_m2": 5560000.0,
+      "surface_area_pct": 57.71,
+      "volumetric_fill_pct": 29.84
+    },
+    "wd_1089455": {
+      "name": "Elmalı-2 Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "İstanbul"
+      ],
+      "current_area_m2": 569014.89,
+      "max_surface_area_m2": 2800000.0,
+      "surface_area_pct": 20.32,
+      "volumetric_fill_pct": 3.0
+    },
+    "tr_28071883": {
+      "name": "Kazandere Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Kırklareli",
+        "İstanbul"
+      ],
+      "current_area_m2": 1776464.02,
+      "max_surface_area_m2": 1765625.0,
+      "surface_area_pct": 100.0,
+      "volumetric_fill_pct": 100.0
+    },
+    "tr_58469446": {
+      "name": "Pabuçdere Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Kırklareli",
+        "İstanbul"
+      ],
+      "current_area_m2": 6277631.78,
+      "max_surface_area_m2": 3095648.0,
+      "surface_area_pct": 100.0,
+      "volumetric_fill_pct": 100.0
+    },
+    "tr_28514833": {
+      "name": "Yuvacık Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Kocaeli"
+      ],
+      "current_area_m2": 939036.07,
+      "max_surface_area_m2": 1740000.0,
+      "surface_area_pct": 53.97,
+      "volumetric_fill_pct": 25.74
+    },
+    "wd_106727732": {
+      "name": "Namazgah Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Kocaeli"
+      ],
+      "current_area_m2": 1882481.07,
+      "max_surface_area_m2": 2843000.0,
+      "surface_area_pct": 66.21,
+      "volumetric_fill_pct": 40.37
+    },
+    "wd_1089383": {
+      "name": "Altınapa Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Konya"
+      ],
+      "current_area_m2": 2151328.49,
+      "max_surface_area_m2": 2200000.0,
+      "surface_area_pct": 97.79,
+      "volumetric_fill_pct": 95.2
+    },
+    "wd_6454244": {
+      "name": "Küçükler Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Uşak"
+      ],
+      "current_area_m2": 94315.43,
+      "max_surface_area_m2": 1200000.0,
+      "surface_area_pct": 7.86,
+      "volumetric_fill_pct": 0.37
+    },
+    "wd_1090485": {
+      "name": "4 Eylül Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Sivas"
+      ],
+      "current_area_m2": 3965770.02,
+      "max_surface_area_m2": 5600000.0,
+      "surface_area_pct": 70.82,
+      "volumetric_fill_pct": 46.81
+    },
+    "wd_8079122": {
+      "name": "Pusat-Özen Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Sivas"
+      ],
+      "current_area_m2": 3286343.63,
+      "max_surface_area_m2": 4200000.0,
+      "surface_area_pct": 78.25,
+      "volumetric_fill_pct": 58.29
+    },
+    "tr_14296418": {
+      "name": "Akbaş Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Denizli"
+      ],
+      "current_area_m2": 808480.26,
+      "max_surface_area_m2": 1980000.0,
+      "surface_area_pct": 40.83,
+      "volumetric_fill_pct": 13.94
+    },
+    "tr_8073019": {
+      "name": "Hamzabey Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Elazığ"
+      ],
+      "current_area_m2": 1392471.5,
+      "max_surface_area_m2": 1100000.0,
+      "surface_area_pct": 100.0,
+      "volumetric_fill_pct": 100.0
+    },
+    "tr_94882086": {
+      "name": "Akdeğirmen Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Afyonkarahisar"
+      ],
+      "current_area_m2": 2173561.52,
+      "max_surface_area_m2": 5600000.0,
+      "surface_area_pct": 38.81,
+      "volumetric_fill_pct": 12.47
+    },
+    "tr_73104899": {
+      "name": "Naip Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Tekirdağ"
+      ],
+      "current_area_m2": 247311.4,
+      "max_surface_area_m2": 1033531.5,
+      "surface_area_pct": 23.93,
+      "volumetric_fill_pct": 4.3
+    },
+    "tr_42726692": {
+      "name": "Musabeyli Cemil Çiçek Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Yozgat"
+      ],
+      "current_area_m2": 1349100.03,
+      "max_surface_area_m2": 8367556.98,
+      "surface_area_pct": 16.12,
+      "volumetric_fill_pct": 1.8
+    },
+    "wd_18746827": {
+      "name": "Kavşakkaya Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Ankara"
+      ],
+      "current_area_m2": 1649944.01,
+      "max_surface_area_m2": 2980000.0,
+      "surface_area_pct": 55.37,
+      "volumetric_fill_pct": 27.24
+    },
+    "tr_88613218": {
+      "name": "Kutlu Aktaş Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "İzmir"
+      ],
+      "current_area_m2": 3677575.01,
+      "max_surface_area_m2": 2550000.0,
+      "surface_area_pct": 100.0,
+      "volumetric_fill_pct": 100.0
+    },
+    "nom_57083406": {
+      "name": "Karagöl",
+      "source_type": "lake",
+      "provinces": [
+        "Giresun"
+      ],
+      "current_area_m2": 104150.39,
+      "max_surface_area_m2": 21555.89,
+      "surface_area_pct": 100.0,
+      "volumetric_fill_pct": 100.0
+    },
+    "osm_228350882": {
+      "name": "Ambar Gölü",
+      "source_type": "lake",
+      "provinces": [
+        "Rize"
+      ],
+      "current_area_m2": 1154707.03,
+      "max_surface_area_m2": 74796.24,
+      "surface_area_pct": 100.0,
+      "volumetric_fill_pct": 100.0
+    },
+    "wd_180828": {
+      "name": "Beyşehir Gölü",
+      "source_type": "lake",
+      "provinces": [
+        "Konya",
+        "Isparta"
+      ],
+      "current_area_m2": 41984960.94,
+      "max_surface_area_m2": 656000000.0,
+      "surface_area_pct": 6.4,
+      "volumetric_fill_pct": 0.71
+    },
+    "wd_144314": {
+      "name": "İznik Gölü",
+      "source_type": "lake",
+      "provinces": [
+        "Bursa",
+        "Yalova"
+      ],
+      "current_area_m2": 475491884.77,
+      "max_surface_area_m2": 298000000.0,
+      "surface_area_pct": 100.0,
+      "volumetric_fill_pct": 100.0
+    },
+    "wd_1145716": {
+      "name": "Uluabat Gölü",
+      "source_type": "lake",
+      "provinces": [
+        "Bursa"
+      ],
+      "current_area_m2": 134124938.96,
+      "max_surface_area_m2": 135000000.0,
+      "surface_area_pct": 99.35,
+      "volumetric_fill_pct": 98.84
+    },
+    "wd_1048578": {
+      "name": "Hazar Gölü",
+      "source_type": "lake",
+      "provinces": [
+        "Elazığ"
+      ],
+      "current_area_m2": 186121762.7,
+      "max_surface_area_m2": 86000000.0,
+      "surface_area_pct": 100.0,
+      "volumetric_fill_pct": 100.0
+    },
+    "wd_1145708": {
+      "name": "Bafa Gölü",
+      "source_type": "lake",
+      "provinces": [
+        "Aydın",
+        "Muğla"
+      ],
+      "current_area_m2": 56302148.44,
+      "max_surface_area_m2": 60000000.0,
+      "surface_area_pct": 93.84,
+      "volumetric_fill_pct": 89.18
+    },
+    "wd_1145724": {
+      "name": "Kovada Gölü",
+      "source_type": "lake",
+      "provinces": [
+        "Isparta"
+      ],
+      "current_area_m2": 5406448.97,
+      "max_surface_area_m2": 11000000.0,
+      "surface_area_pct": 49.15,
+      "volumetric_fill_pct": 27.84
+    },
+    "wd_1145730": {
+      "name": "Tortum Gölü",
+      "source_type": "lake",
+      "provinces": [
+        "Erzurum"
+      ],
+      "current_area_m2": 5930244.14,
+      "max_surface_area_m2": 8000000.0,
+      "surface_area_pct": 74.13,
+      "volumetric_fill_pct": 58.34
+    },
+    "wd_1145735": {
+      "name": "Marmara Gölü",
+      "source_type": "lake",
+      "provinces": [
+        "Manisa"
+      ],
+      "current_area_m2": 3401707.76,
+      "max_surface_area_m2": 44500000.0,
+      "surface_area_pct": 7.64,
+      "volumetric_fill_pct": 0.98
+    },
+    "wd_1145740": {
+      "name": "Gala Gölü",
+      "source_type": "lake",
+      "provinces": [
+        "Edirne"
+      ],
+      "current_area_m2": 6677446.29,
+      "max_surface_area_m2": 5600000.0,
+      "surface_area_pct": 100.0,
+      "volumetric_fill_pct": 100.0
+    },
+    "wd_1656565": {
+      "name": "Ilısu (Veysel Eroğlu) Barajı ve HES",
+      "source_type": "dam",
+      "provinces": [
+        "Mardin",
+        "Batman",
+        "Siirt",
+        "Şırnak",
+        "Diyarbakır"
+      ],
+      "current_area_m2": 152696010.74,
+      "max_surface_area_m2": 313000000.0,
+      "surface_area_pct": 48.78,
+      "volumetric_fill_pct": 20.62
+    },
+    "wd_6049590": {
+      "name": "Çine Adnan Menderes Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Aydın"
+      ],
+      "current_area_m2": 5917959.45,
+      "max_surface_area_m2": 9340000.0,
+      "surface_area_pct": 63.36,
+      "volumetric_fill_pct": 36.65
+    },
+    "wd_6049595": {
+      "name": "Karacaören-2 Barajı ve HES",
+      "source_type": "dam",
+      "provinces": [
+        "Burdur",
+        "Antalya"
+      ],
+      "current_area_m2": 1889.54,
+      "max_surface_area_m2": 2340000.0,
+      "surface_area_pct": 0.08,
+      "volumetric_fill_pct": 0.0
+    },
+    "wd_6049600": {
+      "name": "Birecik Barajı ve HES",
+      "source_type": "dam",
+      "provinces": [
+        "Gaziantep",
+        "Şanlıurfa"
+      ],
+      "current_area_m2": 37683105.47,
+      "max_surface_area_m2": 56250000.0,
+      "surface_area_pct": 66.99,
+      "volumetric_fill_pct": 41.42
+    },
+    "wd_6049605": {
+      "name": "Ayvalı Barajı ve HES (Erzurum)",
+      "source_type": "dam",
+      "provinces": [
+        "Erzurum",
+        "Artvin"
+      ],
+      "current_area_m2": 7727620.61,
+      "max_surface_area_m2": 6800000.0,
+      "surface_area_pct": 100.0,
+      "volumetric_fill_pct": 100.0
+    },
+    "wd_6049610": {
+      "name": "Akköprü Barajı ve HES",
+      "source_type": "dam",
+      "provinces": [
+        "Muğla"
+      ],
+      "current_area_m2": 5135636.65,
+      "max_surface_area_m2": 8920000.0,
+      "surface_area_pct": 57.57,
+      "volumetric_fill_pct": 29.68
+    },
+    "wd_6049615": {
+      "name": "Sera Gölü",
+      "source_type": "lake",
+      "provinces": [
+        "Trabzon"
+      ],
+      "current_area_m2": 118212.89,
+      "max_surface_area_m2": 250000.0,
+      "surface_area_pct": 47.29,
+      "volumetric_fill_pct": 25.97
+    },
+    "wd_6049620": {
+      "name": "Uzungöl",
+      "source_type": "lake",
+      "provinces": [
+        "Trabzon"
+      ],
+      "current_area_m2": 117355.96,
+      "max_surface_area_m2": 500000.0,
+      "surface_area_pct": 23.47,
+      "volumetric_fill_pct": 7.36
+    },
+    "wd_6049625": {
+      "name": "Alucra Göleti",
+      "source_type": "dam",
+      "provinces": [
+        "Giresun"
+      ],
+      "current_area_m2": 966.8,
+      "max_surface_area_m2": 320000.0,
+      "surface_area_pct": 0.3,
+      "volumetric_fill_pct": 0.0
+    },
+    "wd_6049630": {
+      "name": "Çağrankaya / İkizdere Havzası Göleti",
+      "source_type": "lake",
+      "provinces": [
+        "Rize"
+      ],
+      "current_area_m2": 0.0,
+      "max_surface_area_m2": 180000.0,
+      "surface_area_pct": 0.0,
+      "volumetric_fill_pct": 0.0
+    },
+    "wd_6049635": {
+      "name": "Istranca (Düzdere & Kuzuludere) Barajları",
+      "source_type": "dam",
+      "provinces": [
+        "İstanbul",
+        "Kırklareli"
+      ],
+      "current_area_m2": 0.0,
+      "max_surface_area_m2": 1450000.0,
+      "surface_area_pct": 0.0,
+      "volumetric_fill_pct": 0.0
+    },
+    "wd_6049640": {
+      "name": "Konaktepe / Pembelik Barajı ve HES",
+      "source_type": "dam",
+      "provinces": [
+        "Tunceli",
+        "Elazığ"
+      ],
+      "current_area_m2": 8123562.38,
+      "max_surface_area_m2": 16200000.0,
+      "surface_area_pct": 50.15,
+      "volumetric_fill_pct": 21.9
+    },
+    "wd_6049645": {
+      "name": "Çıldır / Arpaçay Havzası (Kura Göleti)",
+      "source_type": "dam",
+      "provinces": [
+        "Ardahan"
+      ],
+      "current_area_m2": 96657.17,
+      "max_surface_area_m2": 450000.0,
+      "surface_area_pct": 21.48,
+      "volumetric_fill_pct": 3.39
+    },
+    "wd_6049650": {
+      "name": "Göksu / Karakaya İçme Suyu Göleti",
+      "source_type": "dam",
+      "provinces": [
+        "Kilis"
+      ],
+      "current_area_m2": 1924.53,
+      "max_surface_area_m2": 650000.0,
+      "surface_area_pct": 0.3,
+      "volumetric_fill_pct": 0.0
+    },
+    "wd_6049655": {
+      "name": "Kozcağız Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Bartın"
+      ],
+      "current_area_m2": 863427.61,
+      "max_surface_area_m2": 2150000.0,
+      "surface_area_pct": 40.16,
+      "volumetric_fill_pct": 13.44
+    },
+    "wd_6049660": {
+      "name": "Beyazsu / Nusaybin Baraj Havzası",
+      "source_type": "dam",
+      "provinces": [
+        "Mardin"
+      ],
+      "current_area_m2": 0.0,
+      "max_surface_area_m2": 1150000.0,
+      "surface_area_pct": 0.0,
+      "volumetric_fill_pct": 0.0
+    },
+    "wd_6049665": {
+      "name": "Güzelyurt Barajı",
+      "source_type": "dam",
+      "provinces": [
+        "Aksaray"
+      ],
+      "current_area_m2": 108215.11,
+      "max_surface_area_m2": 920000.0,
+      "surface_area_pct": 11.76,
+      "volumetric_fill_pct": 0.9
+    }
+  },
+  "provinces": {
+    "Adana": {
+      "source_count": 5,
+      "weighted_fill_pct": 71.19,
+      "rainfall_7d_mm": 26.5,
+      "rainfall_label": "Son 7 gün: 26.5 mm (Şiddetli Yağış)",
+      "water_stress_pct": 32.9,
+      "pollution_pct": 25.9,
+      "raw_water_risk_pct": 33.0,
+      "ai_summary": "Adana havzasında son hafta 26.5 mm yağış kaydedildi. Yüzey akışıyla barajlara taşınan alüvyon ve toprak nedeniyle geçici bulanıklık (çamurlaşma) artışı gözleniyor."
+    },
+    "Adıyaman": {
+      "source_count": 3,
+      "weighted_fill_pct": 53.79,
+      "rainfall_7d_mm": 33.2,
+      "rainfall_label": "Son 7 gün: 33.2 mm (Şiddetli Yağış)",
+      "water_stress_pct": 46.0,
+      "pollution_pct": 28.9,
+      "raw_water_risk_pct": 36.4,
+      "ai_summary": "Adıyaman havzasında son hafta 33.2 mm yağış kaydedildi. Yüzey akışıyla barajlara taşınan alüvyon ve toprak nedeniyle geçici bulanıklık (çamurlaşma) artışı gözleniyor."
+    },
+    "Afyonkarahisar": {
+      "source_count": 4,
+      "weighted_fill_pct": 27.28,
+      "rainfall_7d_mm": 3.0,
+      "rainfall_label": "Son 7 gün: 3.0 mm (Düşük Yağış)",
+      "water_stress_pct": 76.1,
+      "pollution_pct": 21.9,
+      "raw_water_risk_pct": 30.2,
+      "ai_summary": "Afyonkarahisar havzasında son hafta yağış zayıf (3.0 mm) kaldı. Mevcut %27.3 doluluk kısa vadede yeterli görünse de durgunlaşma kaynaklı ham su riski izleniyor."
+    },
+    "Aksaray": {
+      "source_count": 4,
+      "weighted_fill_pct": 11.27,
+      "rainfall_7d_mm": 4.3,
+      "rainfall_label": "Son 7 gün: 4.3 mm (Düşük Yağış)",
+      "water_stress_pct": 89.3,
+      "pollution_pct": 28.8,
+      "raw_water_risk_pct": 41.9,
+      "ai_summary": "Aksaray barajlarında %11.3 ile kritik rezerv seviyesi ve kurak hafta (4.3 mm) su stresini yükseltiyor. Azalan su hacminde dip sediman yoğunluğu arttığından arıtmasız tüketim riski yüksek."
+    },
+    "Amasya": {
+      "source_count": 4,
+      "weighted_fill_pct": 37.14,
+      "rainfall_7d_mm": 26.0,
+      "rainfall_label": "Son 7 gün: 26.0 mm (Şiddetli Yağış)",
+      "water_stress_pct": 61.9,
+      "pollution_pct": 29.0,
+      "raw_water_risk_pct": 36.5,
+      "ai_summary": "Amasya havzasında son hafta 26.0 mm yağış kaydedildi. Yüzey akışıyla barajlara taşınan alüvyon ve toprak nedeniyle geçici bulanıklık (çamurlaşma) artışı gözleniyor."
+    },
+    "Ankara": {
+      "source_count": 12,
+      "weighted_fill_pct": 16.79,
+      "rainfall_7d_mm": 26.8,
+      "rainfall_label": "Son 7 gün: 26.8 mm (Şiddetli Yağış)",
+      "water_stress_pct": 79.0,
+      "pollution_pct": 37.9,
+      "raw_water_risk_pct": 46.4,
+      "ai_summary": "Ankara havzasında son hafta 26.8 mm yağış kaydedildi. Yüzey akışıyla barajlara taşınan alüvyon ve toprak nedeniyle geçici bulanıklık (çamurlaşma) artışı gözleniyor."
+    },
+    "Antalya": {
+      "source_count": 6,
+      "weighted_fill_pct": 56.91,
+      "rainfall_7d_mm": 1.4,
+      "rainfall_label": "Son 7 gün: 1.4 mm (Düşük Yağış)",
+      "water_stress_pct": 51.3,
+      "pollution_pct": 14.2,
+      "raw_water_risk_pct": 18.0,
+      "ai_summary": "Antalya havzasında son hafta yağış zayıf (1.4 mm) kaldı. Mevcut %56.9 doluluk kısa vadede yeterli görünse de durgunlaşma kaynaklı ham su riski izleniyor."
+    },
+    "Ardahan": {
+      "source_count": 2,
+      "weighted_fill_pct": 90.15,
+      "rainfall_7d_mm": 16.7,
+      "rainfall_label": "Son 7 gün: 16.7 mm (Mevsim Normalleri)",
+      "water_stress_pct": 19.2,
+      "pollution_pct": 21.5,
+      "raw_water_risk_pct": 28.1,
+      "ai_summary": "Ardahan genelinde haftalık 16.7 mm yağış rezerv dengesini destekliyor. Yüzey bulanıklığı kontrollü seyretse de ham su arıtma tesislerinden geçmeden tüketime uygun değil."
+    },
+    "Artvin": {
+      "source_count": 6,
+      "weighted_fill_pct": 47.28,
+      "rainfall_7d_mm": 77.9,
+      "rainfall_label": "Son 7 gün: 77.9 mm (Şiddetli Yağış)",
+      "water_stress_pct": 45.8,
+      "pollution_pct": 42.0,
+      "raw_water_risk_pct": 51.0,
+      "ai_summary": "Artvin havzasında son hafta 77.9 mm yağış kaydedildi. Yüzey akışıyla barajlara taşınan alüvyon ve toprak nedeniyle geçici bulanıklık (çamurlaşma) artışı gözleniyor."
+    },
+    "Aydın": {
+      "source_count": 7,
+      "weighted_fill_pct": 64.78,
+      "rainfall_7d_mm": 2.6,
+      "rainfall_label": "Son 7 gün: 2.6 mm (Düşük Yağış)",
+      "water_stress_pct": 44.3,
+      "pollution_pct": 14.4,
+      "raw_water_risk_pct": 18.0,
+      "ai_summary": "Aydın havzasında son hafta yağış zayıf (2.6 mm) kaldı. Mevcut %64.8 doluluk kısa vadede yeterli görünse de durgunlaşma kaynaklı ham su riski izleniyor."
+    },
+    "Ağrı": {
+      "source_count": 1,
+      "weighted_fill_pct": 64.6,
+      "rainfall_7d_mm": 13.4,
+      "rainfall_label": "Son 7 gün: 13.4 mm (Mevsim Normalleri)",
+      "water_stress_pct": 41.7,
+      "pollution_pct": 16.0,
+      "raw_water_risk_pct": 21.9,
+      "ai_summary": "Ağrı genelinde haftalık 13.4 mm yağış rezerv dengesini destekliyor. Yüzey bulanıklığı kontrollü seyretse de ham su arıtma tesislerinden geçmeden tüketime uygun değil."
+    },
+    "Balıkesir": {
+      "source_count": 7,
+      "weighted_fill_pct": 23.07,
+      "rainfall_7d_mm": 2.6,
+      "rainfall_label": "Son 7 gün: 2.6 mm (Düşük Yağış)",
+      "water_stress_pct": 79.7,
+      "pollution_pct": 23.6,
+      "raw_water_risk_pct": 33.2,
+      "ai_summary": "Balıkesir barajlarında %23.1 ile kritik rezerv seviyesi ve kurak hafta (2.6 mm) su stresini yükseltiyor. Azalan su hacminde dip sediman yoğunluğu arttığından arıtmasız tüketim riski yüksek."
+    },
+    "Bartın": {
+      "source_count": 2,
+      "weighted_fill_pct": 85.74,
+      "rainfall_7d_mm": 64.9,
+      "rainfall_label": "Son 7 gün: 64.9 mm (Şiddetli Yağış)",
+      "water_stress_pct": 13.1,
+      "pollution_pct": 42.0,
+      "raw_water_risk_pct": 51.0,
+      "ai_summary": "Bartın havzasında son hafta 64.9 mm yağış kaydedildi. Yüzey akışıyla barajlara taşınan alüvyon ve toprak nedeniyle geçici bulanıklık (çamurlaşma) artışı gözleniyor."
+    },
+    "Batman": {
+      "source_count": 2,
+      "weighted_fill_pct": 23.4,
+      "rainfall_7d_mm": 48.5,
+      "rainfall_label": "Son 7 gün: 48.5 mm (Şiddetli Yağış)",
+      "water_stress_pct": 68.0,
+      "pollution_pct": 44.9,
+      "raw_water_risk_pct": 54.3,
+      "ai_summary": "Batman havzasında son hafta 48.5 mm yağış kaydedildi. Yüzey akışıyla barajlara taşınan alüvyon ve toprak nedeniyle geçici bulanıklık (çamurlaşma) artışı gözleniyor."
+    },
+    "Bayburt": {
+      "source_count": 1,
+      "weighted_fill_pct": 60.61,
+      "rainfall_7d_mm": 16.9,
+      "rainfall_label": "Son 7 gün: 16.9 mm (Mevsim Normalleri)",
+      "water_stress_pct": 44.3,
+      "pollution_pct": 21.6,
+      "raw_water_risk_pct": 28.2,
+      "ai_summary": "Bayburt genelinde haftalık 16.9 mm yağış rezerv dengesini destekliyor. Yüzey bulanıklığı kontrollü seyretse de ham su arıtma tesislerinden geçmeden tüketime uygun değil."
+    },
+    "Bilecik": {
+      "source_count": 1,
+      "weighted_fill_pct": 28.45,
+      "rainfall_7d_mm": 9.9,
+      "rainfall_label": "Son 7 gün: 9.9 mm (Mevsim Normalleri)",
+      "water_stress_pct": 73.3,
+      "pollution_pct": 22.4,
+      "raw_water_risk_pct": 29.1,
+      "ai_summary": "Bilecik genelinde haftalık 9.9 mm yağış rezerv dengesini destekliyor. Yüzey bulanıklığı kontrollü seyretse de ham su arıtma tesislerinden geçmeden tüketime uygun değil."
+    },
+    "Bingöl": {
+      "source_count": 4,
+      "weighted_fill_pct": 29.57,
+      "rainfall_7d_mm": 59.8,
+      "rainfall_label": "Son 7 gün: 59.8 mm (Şiddetli Yağış)",
+      "water_stress_pct": 60.9,
+      "pollution_pct": 47.4,
+      "raw_water_risk_pct": 57.1,
+      "ai_summary": "Bingöl havzasında son hafta 59.8 mm yağış kaydedildi. Yüzey akışıyla barajlara taşınan alüvyon ve toprak nedeniyle geçici bulanıklık (çamurlaşma) artışı gözleniyor."
+    },
+    "Bitlis": {
+      "source_count": 7,
+      "weighted_fill_pct": 69.52,
+      "rainfall_7d_mm": 9.2,
+      "rainfall_label": "Son 7 gün: 9.2 mm (Mevsim Normalleri)",
+      "water_stress_pct": 38.6,
+      "pollution_pct": 15.4,
+      "raw_water_risk_pct": 21.2,
+      "ai_summary": "Bitlis genelinde haftalık 9.2 mm yağış rezerv dengesini destekliyor. Yüzey bulanıklığı kontrollü seyretse de ham su arıtma tesislerinden geçmeden tüketime uygun değil."
+    },
+    "Bolu": {
+      "source_count": 3,
+      "weighted_fill_pct": 17.61,
+      "rainfall_7d_mm": 24.1,
+      "rainfall_label": "Son 7 gün: 24.1 mm (Mevsim Normalleri)",
+      "water_stress_pct": 79.0,
+      "pollution_pct": 36.3,
+      "raw_water_risk_pct": 44.7,
+      "ai_summary": "Bolu genelinde haftalık 24.1 mm yağış rezerv dengesini destekliyor. Yüzey bulanıklığı kontrollü seyretse de ham su arıtma tesislerinden geçmeden tüketime uygun değil."
+    },
+    "Burdur": {
+      "source_count": 12,
+      "weighted_fill_pct": 10.21,
+      "rainfall_7d_mm": 0.5,
+      "rainfall_label": "Son 7 gün: 0.5 mm (Düşük Yağış)",
+      "water_stress_pct": 91.2,
+      "pollution_pct": 28.7,
+      "raw_water_risk_pct": 42.1,
+      "ai_summary": "Burdur barajlarında %10.2 ile kritik rezerv seviyesi ve kurak hafta (0.5 mm) su stresini yükseltiyor. Azalan su hacminde dip sediman yoğunluğu arttığından arıtmasız tüketim riski yüksek."
+    },
+    "Bursa": {
+      "source_count": 12,
+      "weighted_fill_pct": 95.8,
+      "rainfall_7d_mm": 6.3,
+      "rainfall_label": "Son 7 gün: 6.3 mm (Düşük Yağış)",
+      "water_stress_pct": 17.0,
+      "pollution_pct": 14.9,
+      "raw_water_risk_pct": 20.7,
+      "ai_summary": "Bursa havzasında son hafta yağış zayıf (6.3 mm) kaldı. Mevcut %95.8 doluluk kısa vadede yeterli görünse de durgunlaşma kaynaklı ham su riski izleniyor."
+    },
+    "Denizli": {
+      "source_count": 7,
+      "weighted_fill_pct": 3.69,
+      "rainfall_7d_mm": 1.5,
+      "rainfall_label": "Son 7 gün: 1.5 mm (Düşük Yağış)",
+      "water_stress_pct": 96.5,
+      "pollution_pct": 31.6,
+      "raw_water_risk_pct": 47.0,
+      "ai_summary": "Denizli barajlarında %3.7 ile kritik rezerv seviyesi ve kurak hafta (1.5 mm) su stresini yükseltiyor. Azalan su hacminde dip sediman yoğunluğu arttığından arıtmasız tüketim riski yüksek."
+    },
+    "Diyarbakır": {
+      "source_count": 8,
+      "weighted_fill_pct": 38.97,
+      "rainfall_7d_mm": 28.5,
+      "rainfall_label": "Son 7 gün: 28.5 mm (Şiddetli Yağış)",
+      "water_stress_pct": 59.8,
+      "pollution_pct": 29.4,
+      "raw_water_risk_pct": 36.9,
+      "ai_summary": "Diyarbakır havzasında son hafta 28.5 mm yağış kaydedildi. Yüzey akışıyla barajlara taşınan alüvyon ve toprak nedeniyle geçici bulanıklık (çamurlaşma) artışı gözleniyor."
+    },
+    "Düzce": {
+      "source_count": 1,
+      "weighted_fill_pct": 35.22,
+      "rainfall_7d_mm": 44.3,
+      "rainfall_label": "Son 7 gün: 44.3 mm (Şiddetli Yağış)",
+      "water_stress_pct": 59.0,
+      "pollution_pct": 38.0,
+      "raw_water_risk_pct": 46.6,
+      "ai_summary": "Düzce havzasında son hafta 44.3 mm yağış kaydedildi. Yüzey akışıyla barajlara taşınan alüvyon ve toprak nedeniyle geçici bulanıklık (çamurlaşma) artışı gözleniyor."
+    },
+    "Edirne": {
+      "source_count": 7,
+      "weighted_fill_pct": 54.98,
+      "rainfall_7d_mm": 8.7,
+      "rainfall_label": "Son 7 gün: 8.7 mm (Mevsim Normalleri)",
+      "water_stress_pct": 51.1,
+      "pollution_pct": 15.3,
+      "raw_water_risk_pct": 21.1,
+      "ai_summary": "Edirne genelinde haftalık 8.7 mm yağış rezerv dengesini destekliyor. Yüzey bulanıklığı kontrollü seyretse de ham su arıtma tesislerinden geçmeden tüketime uygun değil."
+    },
+    "Elazığ": {
+      "source_count": 8,
+      "weighted_fill_pct": 49.2,
+      "rainfall_7d_mm": 10.5,
+      "rainfall_label": "Son 7 gün: 10.5 mm (Mevsim Normalleri)",
+      "water_stress_pct": 55.6,
+      "pollution_pct": 15.6,
+      "raw_water_risk_pct": 21.5,
+      "ai_summary": "Elazığ genelinde haftalık 10.5 mm yağış rezerv dengesini destekliyor. Yüzey bulanıklığı kontrollü seyretse de ham su arıtma tesislerinden geçmeden tüketime uygun değil."
+    },
+    "Erzincan": {
+      "source_count": 3,
+      "weighted_fill_pct": 57.19,
+      "rainfall_7d_mm": 13.3,
+      "rainfall_label": "Son 7 gün: 13.3 mm (Mevsim Normalleri)",
+      "water_stress_pct": 48.1,
+      "pollution_pct": 16.0,
+      "raw_water_risk_pct": 21.9,
+      "ai_summary": "Erzincan genelinde haftalık 13.3 mm yağış rezerv dengesini destekliyor. Yüzey bulanıklığı kontrollü seyretse de ham su arıtma tesislerinden geçmeden tüketime uygun değil."
+    },
+    "Erzurum": {
+      "source_count": 8,
+      "weighted_fill_pct": 62.68,
+      "rainfall_7d_mm": 43.8,
+      "rainfall_label": "Son 7 gün: 43.8 mm (Şiddetli Yağış)",
+      "water_stress_pct": 35.8,
+      "pollution_pct": 33.7,
+      "raw_water_risk_pct": 41.7,
+      "ai_summary": "Erzurum havzasında son hafta 43.8 mm yağış kaydedildi. Yüzey akışıyla barajlara taşınan alüvyon ve toprak nedeniyle geçici bulanıklık (çamurlaşma) artışı gözleniyor."
+    },
+    "Eskişehir": {
+      "source_count": 7,
+      "weighted_fill_pct": 21.71,
+      "rainfall_7d_mm": 12.3,
+      "rainfall_label": "Son 7 gün: 12.3 mm (Mevsim Normalleri)",
+      "water_stress_pct": 78.5,
+      "pollution_pct": 25.6,
+      "raw_water_risk_pct": 32.7,
+      "ai_summary": "Eskişehir genelinde haftalık 12.3 mm yağış rezerv dengesini destekliyor. Yüzey bulanıklığı kontrollü seyretse de ham su arıtma tesislerinden geçmeden tüketime uygun değil."
+    },
+    "Gaziantep": {
+      "source_count": 5,
+      "weighted_fill_pct": 54.04,
+      "rainfall_7d_mm": 5.1,
+      "rainfall_label": "Son 7 gün: 5.1 mm (Düşük Yağış)",
+      "water_stress_pct": 52.8,
+      "pollution_pct": 14.8,
+      "raw_water_risk_pct": 20.6,
+      "ai_summary": "Gaziantep havzasında son hafta yağış zayıf (5.1 mm) kaldı. Mevcut %54.0 doluluk kısa vadede yeterli görünse de durgunlaşma kaynaklı ham su riski izleniyor."
+    },
+    "Giresun": {
+      "source_count": 2,
+      "weighted_fill_pct": 6.31,
+      "rainfall_7d_mm": 45.0,
+      "rainfall_label": "Son 7 gün: 45.0 mm (Şiddetli Yağış)",
+      "water_stress_pct": 83.4,
+      "pollution_pct": 50.5,
+      "raw_water_risk_pct": 60.6,
+      "ai_summary": "Giresun havzasında son hafta 45.0 mm yağış kaydedildi. Yüzey akışıyla barajlara taşınan alüvyon ve toprak nedeniyle geçici bulanıklık (çamurlaşma) artışı gözleniyor."
+    },
+    "Gümüşhane": {
+      "source_count": 4,
+      "weighted_fill_pct": 20.77,
+      "rainfall_7d_mm": 13.9,
+      "rainfall_label": "Son 7 gün: 13.9 mm (Mevsim Normalleri)",
+      "water_stress_pct": 78.9,
+      "pollution_pct": 26.3,
+      "raw_water_risk_pct": 33.5,
+      "ai_summary": "Gümüşhane genelinde haftalık 13.9 mm yağış rezerv dengesini destekliyor. Yüzey bulanıklığı kontrollü seyretse de ham su arıtma tesislerinden geçmeden tüketime uygun değil."
+    },
+    "Hakkâri": {
+      "source_count": 3,
+      "weighted_fill_pct": 60.57,
+      "rainfall_7d_mm": 4.7,
+      "rainfall_label": "Son 7 gün: 4.7 mm (Düşük Yağış)",
+      "water_stress_pct": 47.3,
+      "pollution_pct": 14.7,
+      "raw_water_risk_pct": 18.0,
+      "ai_summary": "Hakkâri havzasında son hafta yağış zayıf (4.7 mm) kaldı. Mevcut %60.6 doluluk kısa vadede yeterli görünse de durgunlaşma kaynaklı ham su riski izleniyor."
+    },
+    "Hatay": {
+      "source_count": 1,
+      "weighted_fill_pct": 37.4,
+      "rainfall_7d_mm": 8.5,
+      "rainfall_label": "Son 7 gün: 8.5 mm (Mevsim Normalleri)",
+      "water_stress_pct": 66.1,
+      "pollution_pct": 18.5,
+      "raw_water_risk_pct": 24.7,
+      "ai_summary": "Hatay genelinde haftalık 8.5 mm yağış rezerv dengesini destekliyor. Yüzey bulanıklığı kontrollü seyretse de ham su arıtma tesislerinden geçmeden tüketime uygun değil."
+    },
+    "Isparta": {
+      "source_count": 6,
+      "weighted_fill_pct": 25.03,
+      "rainfall_7d_mm": 7.5,
+      "rainfall_label": "Son 7 gün: 7.5 mm (Düşük Yağış)",
+      "water_stress_pct": 76.8,
+      "pollution_pct": 23.5,
+      "raw_water_risk_pct": 30.3,
+      "ai_summary": "Isparta havzasında son hafta yağış zayıf (7.5 mm) kaldı. Mevcut %25.0 doluluk kısa vadede yeterli görünse de durgunlaşma kaynaklı ham su riski izleniyor."
+    },
+    "Iğdır": {
+      "source_count": 2,
+      "weighted_fill_pct": 94.08,
+      "rainfall_7d_mm": 4.9,
+      "rainfall_label": "Son 7 gün: 4.9 mm (Düşük Yağış)",
+      "water_stress_pct": 18.8,
+      "pollution_pct": 14.7,
+      "raw_water_risk_pct": 18.0,
+      "ai_summary": "Iğdır havzasında son hafta yağış zayıf (4.9 mm) kaldı. Mevcut %94.1 doluluk kısa vadede yeterli görünse de durgunlaşma kaynaklı ham su riski izleniyor."
+    },
+    "Kahramanmaraş": {
+      "source_count": 5,
+      "weighted_fill_pct": 74.42,
+      "rainfall_7d_mm": 24.9,
+      "rainfall_label": "Son 7 gün: 24.9 mm (Mevsim Normalleri)",
+      "water_stress_pct": 30.5,
+      "pollution_pct": 25.2,
+      "raw_water_risk_pct": 32.2,
+      "ai_summary": "Kahramanmaraş genelinde haftalık 24.9 mm yağış rezerv dengesini destekliyor. Yüzey bulanıklığı kontrollü seyretse de ham su arıtma tesislerinden geçmeden tüketime uygun değil."
+    },
+    "Karabük": {
+      "source_count": 1,
+      "weighted_fill_pct": 0.14,
+      "rainfall_7d_mm": 28.1,
+      "rainfall_label": "Son 7 gün: 28.1 mm (Şiddetli Yağış)",
+      "water_stress_pct": 92.9,
+      "pollution_pct": 45.5,
+      "raw_water_risk_pct": 55.0,
+      "ai_summary": "Karabük havzasında son hafta 28.1 mm yağış kaydedildi. Yüzey akışıyla barajlara taşınan alüvyon ve toprak nedeniyle geçici bulanıklık (çamurlaşma) artışı gözleniyor."
+    },
+    "Karaman": {
+      "source_count": 4,
+      "weighted_fill_pct": 59.52,
+      "rainfall_7d_mm": 0.0,
+      "rainfall_label": "Son 7 gün: 0.0 mm (Düşük Yağış)",
+      "water_stress_pct": 49.4,
+      "pollution_pct": 14.0,
+      "raw_water_risk_pct": 18.0,
+      "ai_summary": "Karaman havzasında son hafta yağış zayıf (0.0 mm) kaldı. Mevcut %59.5 doluluk kısa vadede yeterli görünse de durgunlaşma kaynaklı ham su riski izleniyor."
+    },
+    "Kars": {
+      "source_count": 1,
+      "weighted_fill_pct": 56.33,
+      "rainfall_7d_mm": 12.0,
+      "rainfall_label": "Son 7 gün: 12.0 mm (Mevsim Normalleri)",
+      "water_stress_pct": 49.1,
+      "pollution_pct": 15.8,
+      "raw_water_risk_pct": 21.7,
+      "ai_summary": "Kars genelinde haftalık 12.0 mm yağış rezerv dengesini destekliyor. Yüzey bulanıklığı kontrollü seyretse de ham su arıtma tesislerinden geçmeden tüketime uygun değil."
+    },
+    "Kastamonu": {
+      "source_count": 7,
+      "weighted_fill_pct": 66.65,
+      "rainfall_7d_mm": 16.9,
+      "rainfall_label": "Son 7 gün: 16.9 mm (Mevsim Normalleri)",
+      "water_stress_pct": 39.1,
+      "pollution_pct": 21.6,
+      "raw_water_risk_pct": 28.2,
+      "ai_summary": "Kastamonu genelinde haftalık 16.9 mm yağış rezerv dengesini destekliyor. Yüzey bulanıklığı kontrollü seyretse de ham su arıtma tesislerinden geçmeden tüketime uygun değil."
+    },
+    "Kayseri": {
+      "source_count": 5,
+      "weighted_fill_pct": 35.85,
+      "rainfall_7d_mm": 5.1,
+      "rainfall_label": "Son 7 gün: 5.1 mm (Düşük Yağış)",
+      "water_stress_pct": 68.3,
+      "pollution_pct": 18.6,
+      "raw_water_risk_pct": 24.8,
+      "ai_summary": "Kayseri havzasında son hafta yağış zayıf (5.1 mm) kaldı. Mevcut %35.9 doluluk kısa vadede yeterli görünse de durgunlaşma kaynaklı ham su riski izleniyor."
+    },
+    "Kilis": {
+      "source_count": 2,
+      "weighted_fill_pct": 73.36,
+      "rainfall_7d_mm": 11.0,
+      "rainfall_label": "Son 7 gün: 11.0 mm (Mevsim Normalleri)",
+      "water_stress_pct": 34.9,
+      "pollution_pct": 15.7,
+      "raw_water_risk_pct": 21.6,
+      "ai_summary": "Kilis genelinde haftalık 11.0 mm yağış rezerv dengesini destekliyor. Yüzey bulanıklığı kontrollü seyretse de ham su arıtma tesislerinden geçmeden tüketime uygun değil."
+    },
+    "Kocaeli": {
+      "source_count": 3,
+      "weighted_fill_pct": 77.46,
+      "rainfall_7d_mm": 15.8,
+      "rainfall_label": "Son 7 gün: 15.8 mm (Mevsim Normalleri)",
+      "water_stress_pct": 30.2,
+      "pollution_pct": 21.1,
+      "raw_water_risk_pct": 27.6,
+      "ai_summary": "Kocaeli genelinde haftalık 15.8 mm yağış rezerv dengesini destekliyor. Yüzey bulanıklığı kontrollü seyretse de ham su arıtma tesislerinden geçmeden tüketime uygun değil."
+    },
+    "Konya": {
+      "source_count": 9,
+      "weighted_fill_pct": 2.11,
+      "rainfall_7d_mm": 0.7,
+      "rainfall_label": "Son 7 gün: 0.7 mm (Düşük Yağış)",
+      "water_stress_pct": 98.0,
+      "pollution_pct": 32.1,
+      "raw_water_risk_pct": 47.9,
+      "ai_summary": "Konya barajlarında %2.1 ile kritik rezerv seviyesi ve kurak hafta (0.7 mm) su stresini yükseltiyor. Azalan su hacminde dip sediman yoğunluğu arttığından arıtmasız tüketim riski yüksek."
+    },
+    "Kütahya": {
+      "source_count": 6,
+      "weighted_fill_pct": 16.05,
+      "rainfall_7d_mm": 10.6,
+      "rainfall_label": "Son 7 gün: 10.6 mm (Mevsim Normalleri)",
+      "water_stress_pct": 83.7,
+      "pollution_pct": 27.7,
+      "raw_water_risk_pct": 35.0,
+      "ai_summary": "Kütahya genelinde haftalık 10.6 mm yağış rezerv dengesini destekliyor. Yüzey bulanıklığı kontrollü seyretse de ham su arıtma tesislerinden geçmeden tüketime uygun değil."
+    },
+    "Kırklareli": {
+      "source_count": 6,
+      "weighted_fill_pct": 26.48,
+      "rainfall_7d_mm": 39.2,
+      "rainfall_label": "Son 7 gün: 39.2 mm (Şiddetli Yağış)",
+      "water_stress_pct": 67.7,
+      "pollution_pct": 39.4,
+      "raw_water_risk_pct": 48.1,
+      "ai_summary": "Kırklareli havzasında son hafta 39.2 mm yağış kaydedildi. Yüzey akışıyla barajlara taşınan alüvyon ve toprak nedeniyle geçici bulanıklık (çamurlaşma) artışı gözleniyor."
+    },
+    "Kırıkkale": {
+      "source_count": 1,
+      "weighted_fill_pct": 8.19,
+      "rainfall_7d_mm": 18.5,
+      "rainfall_label": "Son 7 gün: 18.5 mm (Mevsim Normalleri)",
+      "water_stress_pct": 88.4,
+      "pollution_pct": 37.8,
+      "raw_water_risk_pct": 46.3,
+      "ai_summary": "Kırıkkale genelinde haftalık 18.5 mm yağış rezerv dengesini destekliyor. Yüzey bulanıklığı kontrollü seyretse de ham su arıtma tesislerinden geçmeden tüketime uygun değil."
+    },
+    "Kırşehir": {
+      "source_count": 5,
+      "weighted_fill_pct": 74.33,
+      "rainfall_7d_mm": 5.3,
+      "rainfall_label": "Son 7 gün: 5.3 mm (Düşük Yağış)",
+      "water_stress_pct": 35.5,
+      "pollution_pct": 14.8,
+      "raw_water_risk_pct": 20.6,
+      "ai_summary": "Kırşehir havzasında son hafta yağış zayıf (5.3 mm) kaldı. Mevcut %74.3 doluluk kısa vadede yeterli görünse de durgunlaşma kaynaklı ham su riski izleniyor."
+    },
+    "Malatya": {
+      "source_count": 8,
+      "weighted_fill_pct": 45.23,
+      "rainfall_7d_mm": 2.3,
+      "rainfall_label": "Son 7 gün: 2.3 mm (Düşük Yağış)",
+      "water_stress_pct": 61.0,
+      "pollution_pct": 14.3,
+      "raw_water_risk_pct": 18.0,
+      "ai_summary": "Malatya havzasında son hafta yağış zayıf (2.3 mm) kaldı. Mevcut %45.2 doluluk kısa vadede yeterli görünse de durgunlaşma kaynaklı ham su riski izleniyor."
+    },
+    "Manisa": {
+      "source_count": 8,
+      "weighted_fill_pct": 25.04,
+      "rainfall_7d_mm": 3.4,
+      "rainfall_label": "Son 7 gün: 3.4 mm (Düşük Yağış)",
+      "water_stress_pct": 77.9,
+      "pollution_pct": 22.9,
+      "raw_water_risk_pct": 31.9,
+      "ai_summary": "Manisa havzasında son hafta yağış zayıf (3.4 mm) kaldı. Mevcut %25.0 doluluk kısa vadede yeterli görünse de durgunlaşma kaynaklı ham su riski izleniyor."
+    },
+    "Mardin": {
+      "source_count": 3,
+      "weighted_fill_pct": 20.53,
+      "rainfall_7d_mm": 7.1,
+      "rainfall_label": "Son 7 gün: 7.1 mm (Düşük Yağış)",
+      "water_stress_pct": 80.8,
+      "pollution_pct": 25.3,
+      "raw_water_risk_pct": 32.3,
+      "ai_summary": "Mardin barajlarında %20.5 ile kritik rezerv seviyesi ve kurak hafta (7.1 mm) su stresini yükseltiyor. Azalan su hacminde dip sediman yoğunluğu arttığından arıtmasız tüketim riski yüksek."
+    },
+    "Mersin": {
+      "source_count": 4,
+      "weighted_fill_pct": 78.52,
+      "rainfall_7d_mm": 0.0,
+      "rainfall_label": "Son 7 gün: 0.0 mm (Düşük Yağış)",
+      "water_stress_pct": 33.3,
+      "pollution_pct": 14.0,
+      "raw_water_risk_pct": 18.0,
+      "ai_summary": "Mersin havzasında son hafta yağış zayıf (0.0 mm) kaldı. Mevcut %78.5 doluluk kısa vadede yeterli görünse de durgunlaşma kaynaklı ham su riski izleniyor."
+    },
+    "Muğla": {
+      "source_count": 6,
+      "weighted_fill_pct": 76.4,
+      "rainfall_7d_mm": 2.2,
+      "rainfall_label": "Son 7 gün: 2.2 mm (Düşük Yağış)",
+      "water_stress_pct": 34.5,
+      "pollution_pct": 14.3,
+      "raw_water_risk_pct": 18.0,
+      "ai_summary": "Muğla havzasında son hafta yağış zayıf (2.2 mm) kaldı. Mevcut %76.4 doluluk kısa vadede yeterli görünse de durgunlaşma kaynaklı ham su riski izleniyor."
+    },
+    "Muş": {
+      "source_count": 1,
+      "weighted_fill_pct": 78.26,
+      "rainfall_7d_mm": 7.1,
+      "rainfall_label": "Son 7 gün: 7.1 mm (Düşük Yağış)",
+      "water_stress_pct": 31.7,
+      "pollution_pct": 15.1,
+      "raw_water_risk_pct": 20.9,
+      "ai_summary": "Muş havzasında son hafta yağış zayıf (7.1 mm) kaldı. Mevcut %78.3 doluluk kısa vadede yeterli görünse de durgunlaşma kaynaklı ham su riski izleniyor."
+    },
+    "Nevşehir": {
+      "source_count": 4,
+      "weighted_fill_pct": 15.12,
+      "rainfall_7d_mm": 6.3,
+      "rainfall_label": "Son 7 gün: 6.3 mm (Düşük Yağış)",
+      "water_stress_pct": 85.6,
+      "pollution_pct": 27.5,
+      "raw_water_risk_pct": 34.8,
+      "ai_summary": "Nevşehir barajlarında %15.1 ile kritik rezerv seviyesi ve kurak hafta (6.3 mm) su stresini yükseltiyor. Azalan su hacminde dip sediman yoğunluğu arttığından arıtmasız tüketim riski yüksek."
+    },
+    "Niğde": {
+      "source_count": 6,
+      "weighted_fill_pct": 16.07,
+      "rainfall_7d_mm": 2.5,
+      "rainfall_label": "Son 7 gün: 2.5 mm (Düşük Yağış)",
+      "water_stress_pct": 85.7,
+      "pollution_pct": 26.5,
+      "raw_water_risk_pct": 38.2,
+      "ai_summary": "Niğde barajlarında %16.1 ile kritik rezerv seviyesi ve kurak hafta (2.5 mm) su stresini yükseltiyor. Azalan su hacminde dip sediman yoğunluğu arttığından arıtmasız tüketim riski yüksek."
+    },
+    "Ordu": {
+      "source_count": 1,
+      "weighted_fill_pct": 19.69,
+      "rainfall_7d_mm": 22.7,
+      "rainfall_label": "Son 7 gün: 22.7 mm (Mevsim Normalleri)",
+      "water_stress_pct": 77.6,
+      "pollution_pct": 34.8,
+      "raw_water_risk_pct": 43.0,
+      "ai_summary": "Ordu genelinde haftalık 22.7 mm yağış rezerv dengesini destekliyor. Yüzey bulanıklığı kontrollü seyretse de ham su arıtma tesislerinden geçmeden tüketime uygun değil."
+    },
+    "Osmaniye": {
+      "source_count": 2,
+      "weighted_fill_pct": 62.14,
+      "rainfall_7d_mm": 62.2,
+      "rainfall_label": "Son 7 gün: 62.2 mm (Şiddetli Yağış)",
+      "water_stress_pct": 33.2,
+      "pollution_pct": 42.0,
+      "raw_water_risk_pct": 51.0,
+      "ai_summary": "Osmaniye havzasında son hafta 62.2 mm yağış kaydedildi. Yüzey akışıyla barajlara taşınan alüvyon ve toprak nedeniyle geçici bulanıklık (çamurlaşma) artışı gözleniyor."
+    },
+    "Rize": {
+      "source_count": 2,
+      "weighted_fill_pct": 29.36,
+      "rainfall_7d_mm": 95.5,
+      "rainfall_label": "Son 7 gün: 95.5 mm (Şiddetli Yağış)",
+      "water_stress_pct": 61.0,
+      "pollution_pct": 48.6,
+      "raw_water_risk_pct": 58.4,
+      "ai_summary": "Rize havzasında son hafta 95.5 mm yağış kaydedildi. Yüzey akışıyla barajlara taşınan alüvyon ve toprak nedeniyle geçici bulanıklık (çamurlaşma) artışı gözleniyor."
+    },
+    "Sakarya": {
+      "source_count": 4,
+      "weighted_fill_pct": 34.46,
+      "rainfall_7d_mm": 20.8,
+      "rainfall_label": "Son 7 gün: 20.8 mm (Mevsim Normalleri)",
+      "water_stress_pct": 65.5,
+      "pollution_pct": 27.8,
+      "raw_water_risk_pct": 35.1,
+      "ai_summary": "Sakarya genelinde haftalık 20.8 mm yağış rezerv dengesini destekliyor. Yüzey bulanıklığı kontrollü seyretse de ham su arıtma tesislerinden geçmeden tüketime uygun değil."
+    },
+    "Samsun": {
+      "source_count": 6,
+      "weighted_fill_pct": 26.99,
+      "rainfall_7d_mm": 34.4,
+      "rainfall_label": "Son 7 gün: 34.4 mm (Şiddetli Yağış)",
+      "water_stress_pct": 68.5,
+      "pollution_pct": 37.0,
+      "raw_water_risk_pct": 45.4,
+      "ai_summary": "Samsun havzasında son hafta 34.4 mm yağış kaydedildi. Yüzey akışıyla barajlara taşınan alüvyon ve toprak nedeniyle geçici bulanıklık (çamurlaşma) artışı gözleniyor."
+    },
+    "Siirt": {
+      "source_count": 2,
+      "weighted_fill_pct": 21.09,
+      "rainfall_7d_mm": 35.7,
+      "rainfall_label": "Son 7 gün: 35.7 mm (Şiddetli Yağış)",
+      "water_stress_pct": 73.1,
+      "pollution_pct": 40.1,
+      "raw_water_risk_pct": 48.9,
+      "ai_summary": "Siirt havzasında son hafta 35.7 mm yağış kaydedildi. Yüzey akışıyla barajlara taşınan alüvyon ve toprak nedeniyle geçici bulanıklık (çamurlaşma) artışı gözleniyor."
+    },
+    "Sinop": {
+      "source_count": 5,
+      "weighted_fill_pct": 22.78,
+      "rainfall_7d_mm": 27.2,
+      "rainfall_label": "Son 7 gün: 27.2 mm (Şiddetli Yağış)",
+      "water_stress_pct": 73.8,
+      "pollution_pct": 35.6,
+      "raw_water_risk_pct": 43.9,
+      "ai_summary": "Sinop havzasında son hafta 27.2 mm yağış kaydedildi. Yüzey akışıyla barajlara taşınan alüvyon ve toprak nedeniyle geçici bulanıklık (çamurlaşma) artışı gözleniyor."
+    },
+    "Sivas": {
+      "source_count": 5,
+      "weighted_fill_pct": 45.86,
+      "rainfall_7d_mm": 8.3,
+      "rainfall_label": "Son 7 gün: 8.3 mm (Mevsim Normalleri)",
+      "water_stress_pct": 58.9,
+      "pollution_pct": 15.2,
+      "raw_water_risk_pct": 21.0,
+      "ai_summary": "Sivas genelinde haftalık 8.3 mm yağış rezerv dengesini destekliyor. Yüzey bulanıklığı kontrollü seyretse de ham su arıtma tesislerinden geçmeden tüketime uygun değil."
+    },
+    "Tekirdağ": {
+      "source_count": 3,
+      "weighted_fill_pct": 11.74,
+      "rainfall_7d_mm": 13.6,
+      "rainfall_label": "Son 7 gün: 13.6 mm (Mevsim Normalleri)",
+      "water_stress_pct": 86.6,
+      "pollution_pct": 30.0,
+      "raw_water_risk_pct": 37.6,
+      "ai_summary": "Tekirdağ genelinde haftalık 13.6 mm yağış rezerv dengesini destekliyor. Yüzey bulanıklığı kontrollü seyretse de ham su arıtma tesislerinden geçmeden tüketime uygun değil."
+    },
+    "Tokat": {
+      "source_count": 6,
+      "weighted_fill_pct": 9.72,
+      "rainfall_7d_mm": 30.6,
+      "rainfall_label": "Son 7 gün: 30.6 mm (Şiddetli Yağış)",
+      "water_stress_pct": 84.1,
+      "pollution_pct": 42.6,
+      "raw_water_risk_pct": 51.7,
+      "ai_summary": "Tokat havzasında son hafta 30.6 mm yağış kaydedildi. Yüzey akışıyla barajlara taşınan alüvyon ve toprak nedeniyle geçici bulanıklık (çamurlaşma) artışı gözleniyor."
+    },
+    "Trabzon": {
+      "source_count": 3,
+      "weighted_fill_pct": 36.99,
+      "rainfall_7d_mm": 54.6,
+      "rainfall_label": "Son 7 gün: 54.6 mm (Şiddetli Yağış)",
+      "water_stress_pct": 54.9,
+      "pollution_pct": 41.9,
+      "raw_water_risk_pct": 50.9,
+      "ai_summary": "Trabzon havzasında son hafta 54.6 mm yağış kaydedildi. Yüzey akışıyla barajlara taşınan alüvyon ve toprak nedeniyle geçici bulanıklık (çamurlaşma) artışı gözleniyor."
+    },
+    "Tunceli": {
+      "source_count": 3,
+      "weighted_fill_pct": 57.1,
+      "rainfall_7d_mm": 58.0,
+      "rainfall_label": "Son 7 gün: 58.0 mm (Şiddetli Yağış)",
+      "water_stress_pct": 37.5,
+      "pollution_pct": 40.1,
+      "raw_water_risk_pct": 48.9,
+      "ai_summary": "Tunceli havzasında son hafta 58.0 mm yağış kaydedildi. Yüzey akışıyla barajlara taşınan alüvyon ve toprak nedeniyle geçici bulanıklık (çamurlaşma) artışı gözleniyor."
+    },
+    "Uşak": {
+      "source_count": 1,
+      "weighted_fill_pct": 0.37,
+      "rainfall_7d_mm": 3.0,
+      "rainfall_label": "Son 7 gün: 3.0 mm (Düşük Yağış)",
+      "water_stress_pct": 98.0,
+      "pollution_pct": 33.2,
+      "raw_water_risk_pct": 49.6,
+      "ai_summary": "Uşak barajlarında %0.4 ile kritik rezerv seviyesi ve kurak hafta (3.0 mm) su stresini yükseltiyor. Azalan su hacminde dip sediman yoğunluğu arttığından arıtmasız tüketim riski yüksek."
+    },
+    "Van": {
+      "source_count": 5,
+      "weighted_fill_pct": 69.05,
+      "rainfall_7d_mm": 3.3,
+      "rainfall_label": "Son 7 gün: 3.3 mm (Düşük Yağış)",
+      "water_stress_pct": 40.5,
+      "pollution_pct": 14.5,
+      "raw_water_risk_pct": 18.0,
+      "ai_summary": "Van havzasında son hafta yağış zayıf (3.3 mm) kaldı. Mevcut %69.0 doluluk kısa vadede yeterli görünse de durgunlaşma kaynaklı ham su riski izleniyor."
+    },
+    "Yalova": {
+      "source_count": 2,
+      "weighted_fill_pct": 99.68,
+      "rainfall_7d_mm": 27.4,
+      "rainfall_label": "Son 7 gün: 27.4 mm (Şiddetli Yağış)",
+      "water_stress_pct": 8.4,
+      "pollution_pct": 26.3,
+      "raw_water_risk_pct": 33.5,
+      "ai_summary": "Yalova havzasında son hafta 27.4 mm yağış kaydedildi. Yüzey akışıyla barajlara taşınan alüvyon ve toprak nedeniyle geçici bulanıklık (çamurlaşma) artışı gözleniyor."
+    },
+    "Yozgat": {
+      "source_count": 4,
+      "weighted_fill_pct": 36.91,
+      "rainfall_7d_mm": 10.6,
+      "rainfall_label": "Son 7 gün: 10.6 mm (Mevsim Normalleri)",
+      "water_stress_pct": 66.0,
+      "pollution_pct": 19.0,
+      "raw_water_risk_pct": 25.3,
+      "ai_summary": "Yozgat genelinde haftalık 10.6 mm yağış rezerv dengesini destekliyor. Yüzey bulanıklığı kontrollü seyretse de ham su arıtma tesislerinden geçmeden tüketime uygun değil."
+    },
+    "Zonguldak": {
+      "source_count": 2,
+      "weighted_fill_pct": 34.75,
+      "rainfall_7d_mm": 65.7,
+      "rainfall_label": "Son 7 gün: 65.7 mm (Şiddetli Yağış)",
+      "water_stress_pct": 56.5,
+      "pollution_pct": 46.3,
+      "raw_water_risk_pct": 55.9,
+      "ai_summary": "Zonguldak havzasında son hafta 65.7 mm yağış kaydedildi. Yüzey akışıyla barajlara taşınan alüvyon ve toprak nedeniyle geçici bulanıklık (çamurlaşma) artışı gözleniyor."
+    },
+    "Çanakkale": {
+      "source_count": 10,
+      "weighted_fill_pct": 16.63,
+      "rainfall_7d_mm": 17.0,
+      "rainfall_label": "Son 7 gün: 17.0 mm (Mevsim Normalleri)",
+      "water_stress_pct": 81.6,
+      "pollution_pct": 33.6,
+      "raw_water_risk_pct": 41.6,
+      "ai_summary": "Çanakkale genelinde haftalık 17.0 mm yağış rezerv dengesini destekliyor. Yüzey bulanıklığı kontrollü seyretse de ham su arıtma tesislerinden geçmeden tüketime uygun değil."
+    },
+    "Çankırı": {
+      "source_count": 3,
+      "weighted_fill_pct": 15.03,
+      "rainfall_7d_mm": 16.7,
+      "rainfall_label": "Son 7 gün: 16.7 mm (Mevsim Normalleri)",
+      "water_stress_pct": 83.0,
+      "pollution_pct": 34.1,
+      "raw_water_risk_pct": 42.2,
+      "ai_summary": "Çankırı genelinde haftalık 16.7 mm yağış rezerv dengesini destekliyor. Yüzey bulanıklığı kontrollü seyretse de ham su arıtma tesislerinden geçmeden tüketime uygun değil."
+    },
+    "Çorum": {
+      "source_count": 6,
+      "weighted_fill_pct": 8.65,
+      "rainfall_7d_mm": 24.1,
+      "rainfall_label": "Son 7 gün: 24.1 mm (Mevsim Normalleri)",
+      "water_stress_pct": 86.6,
+      "pollution_pct": 40.1,
+      "raw_water_risk_pct": 48.9,
+      "ai_summary": "Çorum genelinde haftalık 24.1 mm yağış rezerv dengesini destekliyor. Yüzey bulanıklığı kontrollü seyretse de ham su arıtma tesislerinden geçmeden tüketime uygun değil."
+    },
+    "İstanbul": {
+      "source_count": 10,
+      "weighted_fill_pct": 73.68,
+      "rainfall_7d_mm": 30.4,
+      "rainfall_label": "Son 7 gün: 30.4 mm (Şiddetli Yağış)",
+      "water_stress_pct": 29.8,
+      "pollution_pct": 27.7,
+      "raw_water_risk_pct": 35.0,
+      "ai_summary": "İstanbul havzasında son hafta 30.4 mm yağış kaydedildi. Yüzey akışıyla barajlara taşınan alüvyon ve toprak nedeniyle geçici bulanıklık (çamurlaşma) artışı gözleniyor."
+    },
+    "İzmir": {
+      "source_count": 13,
+      "weighted_fill_pct": 55.67,
+      "rainfall_7d_mm": 4.7,
+      "rainfall_label": "Son 7 gün: 4.7 mm (Düşük Yağış)",
+      "water_stress_pct": 51.5,
+      "pollution_pct": 14.7,
+      "raw_water_risk_pct": 18.0,
+      "ai_summary": "İzmir havzasında son hafta yağış zayıf (4.7 mm) kaldı. Mevcut %55.7 doluluk kısa vadede yeterli görünse de durgunlaşma kaynaklı ham su riski izleniyor."
+    },
+    "Şanlıurfa": {
+      "source_count": 4,
+      "weighted_fill_pct": 52.69,
+      "rainfall_7d_mm": 14.1,
+      "rainfall_label": "Son 7 gün: 14.1 mm (Mevsim Normalleri)",
+      "water_stress_pct": 51.7,
+      "pollution_pct": 16.1,
+      "raw_water_risk_pct": 22.0,
+      "ai_summary": "Şanlıurfa genelinde haftalık 14.1 mm yağış rezerv dengesini destekliyor. Yüzey bulanıklığı kontrollü seyretse de ham su arıtma tesislerinden geçmeden tüketime uygun değil."
+    },
+    "Şırnak": {
+      "source_count": 8,
+      "weighted_fill_pct": 21.11,
+      "rainfall_7d_mm": 20.5,
+      "rainfall_label": "Son 7 gün: 20.5 mm (Mevsim Normalleri)",
+      "water_stress_pct": 76.9,
+      "pollution_pct": 33.3,
+      "raw_water_risk_pct": 41.3,
+      "ai_summary": "Şırnak genelinde haftalık 20.5 mm yağış rezerv dengesini destekliyor. Yüzey bulanıklığı kontrollü seyretse de ham su arıtma tesislerinden geçmeden tüketime uygun değil."
+    }
+  },
+  "enriched_with_weather": true
+}

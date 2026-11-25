@@ -1,0 +1,22 @@
+name: Daily Sentinel-2 Satellite Sync
+
+on:
+  schedule:
+    - cron: '0 3 * * *' # Her gün TSİ 06:00'da otomatik çalışır
+  workflow_dispatch:
+
+jobs:
+  sync-satellite:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests
+      - env:
+          CDSE_CLIENT_ID: ${{ secrets.CDSE_CLIENT_ID }}
+          CDSE_CLIENT_SECRET: ${{ secrets.CDSE_CLIENT_SECRET }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+        run: python assets/scripts/sync_sentinel_to_supabase.py
